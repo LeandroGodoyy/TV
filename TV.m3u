@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/globo-202450887.logowik.com.webp",GLOBO EPTV CAMPINAS HD
+#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png",GLOBO EPTV CAMPINAS HD
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/491
 #EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="TV Aberta",GLOBO EPTV CAMPINAS 4K
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/780
