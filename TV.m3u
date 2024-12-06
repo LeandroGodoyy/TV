@@ -1,7 +1,7 @@
 ﻿#EXTM3U x-tvg-url="https://www.bevy.be/generate/2jwqwNaR49.xml,https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/2jwqwNaR49.xml"
 #EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="TV Aberta",GLOBO EPTV CAMPINAS HD
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/491
-#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="TV Aberta",GLOBO EPTV CAMPINAS 4K
+#EXTINF:-1 tvg-id="GLOBO EPTV CAMPINAS 4K" tvg-name="GLOBO EPTV CAMPINAS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="TV Aberta",GLOBO EPTV CAMPINAS 4K
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/780
 #EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP 4K" tvg-logo="https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/Globo_logo_and_wordmark.png" group-title="TV Aberta",GLOBO SP 4K
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/511
