@@ -9,13 +9,13 @@ http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/511
 https://aovivo.maissbt.com/channel_540.m3u8
 #EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="TV Aberta",SBT 4K
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/534
-#EXTINF:-1 tvg-id="231eb208f32f3a9a9dbe8ac3d9e03284" tvg-name="TV CULTURA UHD" tvg-logo="https://www.bauru.usp.br/wp-content/uploads/tvcultura-291x300.jpg" group-title="TV Aberta",TV CULTURA UHD
+#EXTINF:-1 tvg-id="231eb208f32f3a9a9dbe8ac3d9e03284" tvg-name="TV CULTURA" tvg-logo="https://www.bauru.usp.br/wp-content/uploads/tvcultura-291x300.jpg" group-title="TV Aberta",TV CULTURA
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/547
 #EXTINF:-1 tvg-id="Futura HD" tvg-name="FUTURA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="TV Aberta",FUTURA 4K
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/243
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="TV Aberta",BAND SP HD
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/485
-#EXTINF:-1 tvg-id="9b06e31791b171bd6987483a264ee48f" tvg-name="BAND SP 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="TV Aberta",BAND SP 4k
+#EXTINF:-1 tvg-id="9b06e31791b171bd6987483a264ee48f" tvg-name="BAND SP 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="TV Aberta",BAND SP 4K
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/484
 #EXTINF:-1 tvg-id="79a773fe452a6ff5dbd0dd21c20880bb" tvg-name="RECORD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="TV Aberta",RECORD HD
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/523
@@ -43,11 +43,11 @@ http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/104
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="Variedades",Pluto TV Cozinha
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e8ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-#EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="H&H HD" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="Variedades",DISCOVERY H&H HD
+#EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="H&H HD" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="Variedades",H&H HD
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/68
-#EXTINF:-1 tvg-id="9f69a7aab7bc08a257f8c70537c0f3fc" tvg-name="H&H HDR+" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="Variedades",DISCOVERY H&H HDR+
+#EXTINF:-1 tvg-id="9f69a7aab7bc08a257f8c70537c0f3fc" tvg-name="H&H HDR+" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="Variedades",H&H HDR+
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/1021
-#EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="H&H 4K" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="Variedades",DISCOVERY H&H 4K
+#EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="H&H 4K" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="Variedades",H&H 4K
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/67
 #EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1280px-HGTV_2010.svg.png" group-title="Variedades",HGTV HD
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/552
@@ -107,7 +107,7 @@ http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/70
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/69
 #EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/800px-Science_Channel_logo.svg.png" group-title="Documentários",DISCOVERY SCIENCE HD
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/72
-#EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/800px-Science_Channel_logo.svg.png" group-title="Documentários",DISCOVERY SCIENCE 4k
+#EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/800px-Science_Channel_logo.svg.png" group-title="Documentários",DISCOVERY SCIENCE 4K
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/71
 #EXTINF:-1 tvg-id="ce83d2eabfcab425926a03d0071e85ce" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="Documentários",DISCOVERY THEATER HD
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/74
@@ -121,9 +121,9 @@ http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/75
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/78
 #EXTINF:-1 tvg-id="2562574e5c1223acb63b1c6b48e53ae2" tvg-name="DISCOVERY WORLD 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1920px-World_Discovery_HD_logo.svg.png" group-title="Documentários",DISCOVERY WORLD 4K
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/77
-#EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="Documentários",HISTORY CHANNEL HD
+#EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY HD" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="Documentários",HISTORY HD
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/82
-#EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="Documentários",HISTORY CHANNEL 4K
+#EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY 4K" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="Documentários",HISTORY 4K
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/83
 #EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="HISTORY 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1984px-History2_logo_%282022%29.svg.png" group-title="Documentários",HISTORY 2 HD
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/81
@@ -674,7 +674,7 @@ https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Samsung TV",2733 Moviesphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u
-#EXTINF:-1 tvg-logo="https://imgur.com/11aNWuU.png" group-title="Internacional",Sic TV
+#EXTINF:-1 tvg-logo="https://imgur.com/11aNWuU.png" group-title="Internacional",SIC TV
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/hbkDjva.png" group-title="Internacional",TVi Realitys
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?ManoTV
