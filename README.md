@@ -7,3 +7,8 @@ https://www.bevy.be/generate/2jwqwNaR49.xml
 https://www.bevy.be/generate/2jwqwNaR49.xml.gz
 
 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/iptvlegalinteresses.m3u
+
+#### Conferir ####
+https://github.com/BUGGM3U/IPTV-BRASIL
+
+https://github.com/Ramys/Iptv-Brasil-2025
