@@ -1,56 +1,20 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/helenfernanda/gratis/main/distrotv.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml"
-
-
-
 #EXTINF:-1 tvg-id="animetv.br" tvg-logo="https://i.imgur.com/MuCJvAd.png" group-title="Pluto TV 2",Anime TV | Brasil 
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aq2lMmL.png" group-title="Pluto TV 2",Otaku Sign TV
 https://stmv1.srvif.com/otaku/otaku/chunklist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="CineMonde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Brasil: cinema",CineMonde | Soul TV Brasil
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Brasil: cinema",DarkFlix HD | Soul TV Brasil
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="Brasil: cinema",MovieSphere | Brasil
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Brasil: cinema",MyTime Movie Network | Brasil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Ação | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Ação | Brasil ~ link 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime CinEspanto | Suspense e Terror | Brasil
@@ -63,31 +27,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Romance | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Brasil: cinema",Soul Cine Clube | Brasil 
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZGO7xc.png" group-title="Brasil: educativos e documentários",Canal Educação | Brasil
 https://canaleducacao-stream.ebc.com.br/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png" group-title="Brasil: educativos e documentários",Canal Gov | Brasil
 https://canalgov-stream.ebc.com.br/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7kRysMu.png?1" group-title="Brasil: educativos e documentários",Canal Libras
 https://canallibras-stream.ebc.com.br/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dUdZVhT.png" group-title="Brasil: educativos e documentários",Phoenix TV | Soul TV Brasil
 http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="SpaceTodayTV.br" tvg-logo="https://yt3.googleusercontent.com/WAZB0H8e-u5ypkyl_lol08jLETezqqNbtIaafgp7O5m_WtpSb8OVXqmNO0_GW2Q8UFXdXB2E1w=s400-c-k-c0x00ffffff-no-rj" group-title="Brasil: educativos e documentários",Space Today TV | Brasil 
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Brasil: educativos e documentários",Rakuten Documentários | português e inglês
@@ -98,10 +47,6 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index1080p.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br" tvg-logo="https://i.imgur.com/Wn1VFRx.png" group-title="Brasil: educativos e documentários",Sesc TV ~ 720 | Brasil
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index720p.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/faZEzAh.png" group-title="Brasil: educativos e documentários",TV Brasil Web
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="Brasil: educativos e documentários",TV Brasil | RBA TV | Rio do Sul | SC
@@ -114,7 +59,6 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Brasil: educativos e documentários",TV Cultura | TV Futuro | RN
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVEscola.br" tvg-logo="https://i.imgur.com/77Vszxq.png" group-title="Brasil: educativos e documentários",TV Escola | Brasil
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jFjwgJz.png" group-title="Brasil: educativos e documentários",TV Faap | Brasil
@@ -129,48 +73,20 @@ http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.
 http://cdn.connectbr.com.br/UNIVESP/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0oUtwJz.png" group-title="Brasil: educativos e documentários",XR Health Brasil | Soul TV Brasil
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="64df7ab4dfa32400083c517b" tvg-logo="https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/colorLogoPNG.png" group-title="Brasil: esportes e e-sports",DAZN Combat - inglês e português | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64df7ab4dfa32400083c517b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3oS1kJl.png" group-title="Brasil: humor; novelas e séries",Canal 29
 https://stmv1.srvif.com/canal29/canal29/chunklist_w1327743613.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="TVI Ficção HD" tvg-logo="https://i.imgur.com/crseFhh.png" group-title="Brasil: humor; novelas e séries",TVI Ficção | Portugal
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="Brasil: humor; novelas e séries",Xtreme TV
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/unnamed_4cMwnRI.png" group-title="Brasil: infanto-juvenis",Kids Mais | Brasil 
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="Brasil: infanto-juvenis",Os Jetsons | Brasil
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="retrocartoon" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Brasil: infanto-juvenis",Retrô Cartoon | Brasil 
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Brasil: infanto-juvenis",Toon Googles TG Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Brasil: infanto-juvenis",Toon Googles TG Brasil 2
@@ -179,61 +95,28 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=465
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1296
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Brasil: infanto-juvenis",Toon Googles TG Brasil | RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="TVR.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png" group-title="Brasil: infanto-juvenis",TV R | Brasil
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HwwQeLo.png" group-title="Brasil: infanto-juvenis",TV ZYN - SBT | Brasil
 https://amg01391-sbtinfast-amg01391c2-runtime-latam-1337.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-runtimelatam/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="Brasil: lifestyle e realities",Assim é Portugal | Brasil
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="Brasil: lifestyle e realities",Astral TV | Brasil 
 https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_Reduz.png" group-title="Brasil: lifestyle e realities",Bem Melhor | Soul TV
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="GBAJ4900002DE" tvg-logo="https://i.imgur.com/YUIQH6G.png" group-title="Brasil: lifestyle e realities",Fashion TV | Brasil 
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="PetLovers.br" tvg-logo="https://i.imgur.com/9bGTRlb.png" group-title="Brasil: lifestyle e realities",Pet Lovers | Brasil
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="Brasil: lifestyle e realities",Trace Brazuca | Xiaomi
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Aal0o2.png" group-title="Brasil: lifestyle e realities",U Miss TV | Soul TV Brasil 
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="Brasil: lifestyle e realities",Viajando pelo Brasil | Soul TV Brasil
 https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/square/366x206/a505127c-angermanagement_runtime_channeltitle_1080x1080.jpg" group-title="Brasil: maratona de ficção",Tratamento de Choque | RunTime
 https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/playlist/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/rXEBYmC.png" group-title="Brasil: variedades",AWTV | Brasil
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades",Band | RBA TV | PA Brasil
@@ -276,11 +159,6 @@ https://acesso.ecast.site:3630/live/imperiallive.m3u8
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeChannel.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_pequeno_s1hYlfg.png" group-title="Brasil: variedades",Life Channel Brasil
 https://cdn2.connectbr.com.br/life/index.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="Brasil: variedades",NGT SP
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Brasil: variedades",Nova Era TV | Lages SC Brasil
@@ -403,48 +281,26 @@ https://video05.logicahost.com.br/uniquetvlive/uniquetvlive/playlist.m3u8
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gNt3xcI.png" group-title="Brasil: variedades",Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="CHAJ0500432A" tvg-logo="https://i.imgur.com/Omx4XSy.png" group-title="Música",Bachstiftung | Suiça
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/b169516d-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZHIKmOZ.png" group-title="Música",Blast Channel TV | Brasil
 https://video01.logicahost.com.br/blast/blast/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mE3Hhdk.png" group-title="Música",BritAsia TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
-
-
 #EXTINF:-1 tvg-id="5873fc21cad696fb37aa9054" tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Música",Live Music Replay | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-
-
-
-
 #EXTINF:-1 tvg-id="ESBA3300042Y6" tvg-logo="https://i.imgur.com/IJRDWGo.png" group-title="Música",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="DEBA3300030O1" tvg-logo="https://i.imgur.com/zcpM1Ty.png" group-title="Música",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="http://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Música",Vevo 70s | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Música",Vevo 80s | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Música",Vevo 90s | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-
-
-
 #EXTINF:-1 tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Música",Vevo 2K | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-
-
 #EXTINF:-1 tvg-id="5da0d64d0e8a62000964ebe4" tvg-logo="http://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" group-title="Música",Vevo Latino | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5d93b635b43dd1a399b39eee" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Música",Vevo Pop | Pluto TV EUA
@@ -457,10 +313,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f3977
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="61d4c2817a823d00070ba53e" tvg-logo="http://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="Música",Vevo True School Hip-Hop | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-
-
-
 #EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Música",VH1 Classics | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 channel-id="pluto-62e8cc10ca869f00078efca8" tvg-id="62e8cc10ca869f00078efca8" tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" tvg-chno="800" group-title="Música",VH1+ Music Legends
@@ -473,7 +325,5 @@ https://jmp2.uk/PlutoTV/636a4173e34fd50007534542-alt.m3u8
 https://jmp2.uk/PlutoTV/63724270c7c2360007b170e8-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65e5d9d2ec9fda0008c35f91" tvg-id="65e5d9d2ec9fda0008c35f91" tvg-logo="https://images.pluto.tv/channels/65e5d9d2ec9fda0008c35f91/colorLogoPNG.png" tvg-chno="820" group-title="Música",VH1+ Dance
 https://jmp2.uk/PlutoTV/65e5d9d2ec9fda0008c35f91-alt.m3u8
-
 #EXTINF:-1 tvg-id="5f779951372da90007fd45e8" tvg-logo="http://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Música instrumental e som ambiente",Clássica | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
