@@ -325,5 +325,7 @@ https://jmp2.uk/PlutoTV/636a4173e34fd50007534542-alt.m3u8
 https://jmp2.uk/PlutoTV/63724270c7c2360007b170e8-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65e5d9d2ec9fda0008c35f91" tvg-id="65e5d9d2ec9fda0008c35f91" tvg-logo="https://images.pluto.tv/channels/65e5d9d2ec9fda0008c35f91/colorLogoPNG.png" tvg-chno="820" group-title="Música",VH1+ Dance
 https://jmp2.uk/PlutoTV/65e5d9d2ec9fda0008c35f91-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iGKvaRc.png" group-title="Pluto TV Doc",Oportunidades TV | full HD
+http://maistop.net:80/live/meutedio/meutedio/1.m3u8
 #EXTINF:-1 tvg-id="5f779951372da90007fd45e8" tvg-logo="http://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Música instrumental e som ambiente",Clássica | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
