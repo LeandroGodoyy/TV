@@ -10,9 +10,11 @@ https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/iptvlegalinte
 
 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/2jwqwNaR49.xml
 
-# Conferir
+# Em teste
 https://github.com/BUGGM3U/IPTV-BRASIL
+
 https://github.com/Ramys/Iptv-Brasil-2025
+
 https://github.com/jhonatadev/Iptv-Brasil-2022
 
 ## IPTV Legal
