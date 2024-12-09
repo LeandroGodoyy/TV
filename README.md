@@ -8,6 +8,8 @@ https://www.bevy.be/generate/2jwqwNaR49.xml.gz
 
 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/iptvlegalinteresses.m3u
 
+https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/2jwqwNaR49.xml
+
 #### Conferir ####
 https://github.com/BUGGM3U/IPTV-BRASIL
 
