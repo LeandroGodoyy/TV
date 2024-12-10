@@ -19,6 +19,8 @@ https://github.com/Ramys/Iptv-Brasil-2025
 
 https://github.com/jhonatadev/Iptv-Brasil-2022
 
+https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/refs/heads/master/Nova%20Lista.m3u8 (Nova Lista)
+
 ## IPTV Legal
 
 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/iptvlegal.m3u
