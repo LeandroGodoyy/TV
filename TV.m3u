@@ -677,12 +677,6 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/75/89/64/7589640f-38b9-cf6f-0963-1980ee7758a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" group-title="Internacional",Demand Africa HD
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ligacampeones.png" group-title="Internacional",Liga Campeones HD
-http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/AntrFrv.png" group-title="Internacional",RTP1
-http://162.212.178.69:41042/bysid/608
-#EXTINF:-1 tvg-logo="https://imgur.com/AntrFrv.png" group-title="Internacional",RTP1 HD
-https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/bc6tYVZ.png" group-title="Internacional",CNN Portugal
 https://bit.ly/41Pufgt?/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Internacional",CNN International
@@ -753,20 +747,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645111f1d
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="MasterChef" tvg-logo="https://imgur.com/qKwrAUT.png" group-title="Pluto TV",MasterChef
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://imgur.com/3Wpaz9E.png" group-title="Pluto TV",Runtime Ação HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 tvg-logo="https://imgur.com/5aavtj1.png" group-title="Pluto TV",Runtime TV e Filmes HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 tvg-logo="https://imgur.com/TZ7LfjB.png" group-title="Pluto TV",Runtime Comédia HD 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="Pluto TV",Runtime Família 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-#EXTINF:-1 tvg-logo="https://imgur.com/U6ElKK3.png" group-title="Pluto TV",Runtime Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-logo="https://imgur.com/bzX7MO8.png" group-title="Pluto TV",Runtime Cine Espanto
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1 tvg-logo="https://imgur.com/KQt9WGA.png" group-title="Pluto TV",Runtime Crime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Pluto TV",Runtime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Cine Crime
@@ -961,22 +941,21 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png" group-title="Pluto TV",Realmadrid TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime Brasil",RunTime | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime Brasil",RunTime Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime Brasil",RunTime Ação | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime Brasil",RunTime Ação Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime Brasil",RunTime Ação | Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime Brasil",RunTime Ação Brasil 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime Brasil",RunTime CinEspanto | Suspense e Terror | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime Brasil",RunTime CinEspanto Suspense e Terror Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime Brasil",RunTime Comédia | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime Brasil",RunTime Comédia Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime Brasil",RunTime Crime | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime Brasil",RunTime Crime Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime Brasil",RunTime Família | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime Brasil",RunTime Família Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime Brasil",RunTime Romance | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="RunTime Brasil",RunTime Romance Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="RunTime Brasil",Toon Googles TG Brasil | RunTime
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="RunTime Brasil",RunTime Toon Googles TG Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
-#EXTINF:-1 tvg-id="" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/square/366x206/a505127c-angermanagement_runtime_channeltitle_1080x1080.jpg" group-title="RunTime Brasil",Tratamento de Choque | RunTime
