@@ -13,7 +13,7 @@ http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/534
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/547
 #EXTINF:-1 tvg-id="6b06a31791k172bd6987483a264ee48f" tvg-name="FUTURA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="TV Aberta",FUTURA 4K
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/243
-#EXTINF:-1 tvg-id="band.br" tvg-name="9b06e31791b171bd6987483a264ee48f" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="TV Aberta",BAND SP HD
+#EXTINF:-1 tvg-id="9b06e31791b171bd6987483a264ee48f" tvg-name="BAND SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="TV Aberta",BAND SP HD
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/485
 #EXTINF:-1 tvg-id="9b06e31791b171bd6987483a264ee48f" tvg-name="BAND SP 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="TV Aberta",BAND SP 4K
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/484
@@ -478,8 +478,6 @@ http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/729
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/731
 #EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24h Desenhos",TOM & JERRY
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/733
-#EXTINF:-1 group-title="Samsung TV",2002 Filmelier
-https://cc-ivjqrycrrc6j3.akamaized.net/Sofa_Digital/Filmelier_BR/Filmelier.m3u8
 #EXTINF:-1 group-title="Samsung TV",2045 BM&C News
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 #EXTINF:-1 group-title="Samsung TV",2047 NBC News Now
