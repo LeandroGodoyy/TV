@@ -1,4 +1,5 @@
 # TV EPG
+10/12/2024 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/2jwqwNaR49.xml
 
 https://raw.githubusercontent.com/ManuelSousa1974/EPG-BRASIL/refs/heads/master/Tv_guide.xml
 
