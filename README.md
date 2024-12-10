@@ -19,6 +19,8 @@ https://github.com/Ramys/Iptv-Brasil-2025
 
 https://github.com/jhonatadev/Iptv-Brasil-2022
 
+p2.hostinggonemoreso1.com:2082/get.php?username=Tourobox2-F6HlZGQGMS&password=FmIjSdCFpI&type=m3u_plus
+
 ## IPTV Legal
 
 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/iptvlegal.m3u
