@@ -1,5 +1,7 @@
 # TV EPG
 
+https://raw.githubusercontent.com/ManuelSousa1974/EPG-BRASIL/refs/heads/master/Tv_guide.xml
+
 https://www.bevy.be/pdownload.php?file=2jwqwNaR49.xml.gz
 
 https://www.bevy.be/generate/2jwqwNaR49.xml
