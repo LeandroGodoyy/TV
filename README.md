@@ -15,13 +15,25 @@ https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/2jwqwNaR49.xm
 
 **Fonte**: https://github.com/BUGGM3U/IPTV-BRASIL:
 
-**Lista*** https://raw.githubusercontent.com/BUGGM3U/IPTV-BRASIL/refs/heads/main/tv_channels_priscilaj_plus.m3u
+**Lista**: https://raw.githubusercontent.com/BUGGM3U/IPTV-BRASIL/refs/heads/main/tv_channels_priscilaj_plus.m3u
 
-https://github.com/Ramys/Iptv-Brasil-2025
+---
 
-https://github.com/jhonatadev/Iptv-Brasil-2022
+**Para ver o que tem e o que funciona:**
 
-https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/refs/heads/master/Nova%20Lista.m3u8 (Nova Lista)
+**Fonte**: https://github.com/Ramys/Iptv-Brasil-2025
+
+**Lista**:
+
+---
+
+**Para ver o que tem e o que funciona:**
+
+**Fonte**: https://github.com/jhonatadev/Iptv-Brasil-2022
+
+**Lista**:
+
+---
 
 ## IPTV Legal
 
