@@ -935,19 +935,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea800073907
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Cinema",RunTime Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Cinema",RunTime Ação Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Cinema",RunTime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Cinema",RunTime Ação Brasil 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Cinema",RunTime Ação 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Cinema",RunTime CinEspanto Suspense e Terror Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Cinema",RunTime Suspense e Terror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Cinema",RunTime Comédia Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Cinema",RunTime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Cinema",RunTime Crime Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Cinema",RunTime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Cinema",RunTime Família Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Cinema",RunTime Família
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Cinema",RunTime Romance Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Cinema",RunTime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Infantil",RunTime Toon Goggles
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
