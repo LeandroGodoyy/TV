@@ -1,3 +1,7 @@
+# Configurando
+
+https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/TVm3u8.m3u8
+
 # TV EPG
 10/12/2024 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/2jwqwNaR49.xml
 
