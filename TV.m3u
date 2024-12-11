@@ -571,33 +571,33 @@ http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 #EXTINF:-1 group-title="Samsung TV",Nick Junior Club
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1 group-title="Samsung TV",2283 Cazé TV
+#EXTINF:-1 group-title="Samsung TV",Cazé TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 group-title="Samsung TV",2284 Fifa Plus
+#EXTINF:-1 group-title="Samsung TV",Fifa Plus
 https://7dcc3ebb.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1icl9GSUZBUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Samsung TV",2285 GeFast 
 https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
-#EXTINF:-1 group-title="Samsung TV",2288 Tennis TV Classics
+#EXTINF:-1 group-title="Samsung TV",Tennis TV Classics
 https://amg01470-amg01470c1-samsung-br-4768.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Samsung TV",2295 Fuel TV
+#EXTINF:-1 group-title="Samsung TV",Fuel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
-#EXTINF:-1 group-title="Samsung TV",2315 SFT Combat
+#EXTINF:-1 group-title="Samsung TV",SFT Combat
 https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
-#EXTINF:-1 group-title="Samsung TV",2319 Hard Knocks Fight Championship
+#EXTINF:-1 group-title="Samsung TV",Hard Knocks Fight Championship
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_hardknocks_002.m3u8
-#EXTINF:-1 group-title="Samsung TV",2327 MAV TV em Portugues
+#EXTINF:-1 group-title="Samsung TV",MAV TV em Portugues
 https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
-#EXTINF:-1 group-title="Samsung TV",2327 Mav TV Brasil alt
+#EXTINF:-1 group-title="Samsung TV",Mav TV Brasil alt
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-smn-pt-samsung-rakuten/playlist.m3u8
 #EXTINF:-1 group-title="Samsung TV",2330 Motorvision.TV
 https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
 #EXTINF:-1 group-title="Samsung TV",2330 Motorvision.TV alt
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
-#EXTINF:-1 group-title="Samsung TV",2332 People Are Awesome
+#EXTINF:-1 group-title="Samsung TV",People Are Awesome
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Samsung TV",2334 World Poker Tour em Portuguese
+#EXTINF:-1 group-title="Samsung TV",World Poker Tour em Portuguese
 https://cc-b6qwhugqif6k0.akamaized.net/WPT/World_Poker_Tour_BR/World_Poker_Tour.m3u8
-#EXTINF:-1 group-title="Samsung TV",2334 World Poker Tour Portuguese alt
+#EXTINF:-1 group-title="Samsung TV",World Poker Tour Portuguese alt
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/466.m3u8
 #EXTINF:-1 group-title="Samsung TV",2334 World Poker Tour Global version
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6654
@@ -605,19 +605,19 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6654
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Samsung TV",2338 Pluto TV Anime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Samsung TV",2341 Sato +
+#EXTINF:-1 group-title="Samsung TV",Sato +
 https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
-#EXTINF:-1 group-title="Samsung TV",2344 Ubisoft TV
+#EXTINF:-1 group-title="Samsung TV",Ubisoft TV
 https://ubl-ut-samsung.otteravision.com/ubl/ut/ut.m3u8
-#EXTINF:-1 group-title="Samsung TV",2435 Stingray Qello Concerts
+#EXTINF:-1 group-title="Samsung TV",Stingray Qello Concerts
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplusbr/master.m3u8
 #EXTINF:-1 group-title="Samsung TV",2436 MTV Biggest Pop
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2fflivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Samsung TV",2437 Kpop by CJ ENM (US)
+#EXTINF:-1 group-title="Samsung TV",Kpop by CJ ENM (US)
 https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 #EXTINF:-1 group-title="Samsung TV",2439 Trace Brasil
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
-#EXTINF:-1 group-title="Samsung TV",2445 Clubbing TV (Geo)
+#EXTINF:-1 group-title="Samsung TV",Clubbing TV (Geo)
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Samsung TV",2450 Qwest TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8
@@ -629,13 +629,13 @@ https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Samsung TV",2475 FailArmy
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Samsung TV",2485 Just for Laughs Gags
+#EXTINF:-1 group-title="Samsung TV",Just for Laughs Gags
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Samsung TV",2500 Always Funny Videos
 https://cc-adhkhug69u4vo.akamaized.net/playlist.m3u8
 #EXTINF:-1 group-title="Samsung TV",2549 Sony One - Emoções
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Samsung TV",2549 Sony One - Emoções alt
+#EXTINF:-1 group-title="Samsung TV",Sony One - Emoções alt
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 #EXTINF:-1 group-title="Samsung TV",2555 FilmRise Séries Gratuitas
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
@@ -653,7 +653,7 @@ https://run-rt-ra-samsung.otteravision.com/run/rt_ra_h265/rt_ra_h265.m3u8
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
 #EXTINF:-1 group-title="Samsung TV",2646 Adrenalina Freezone
 https://cc-e2pb6h3gp19c3.akamaized.net/Sofa_Digital/Adrenalina_Freezone_BR/Adrenalina_Freezone.m3u8
-#EXTINF:-1 group-title="Samsung TV",2675 Dark Matter TV
+#EXTINF:-1 group-title="Samsung TV",Dark Matter TV
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
 #EXTINF:-1 group-title="Samsung TV",2695 Cindie Lite Portuguese
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
@@ -665,7 +665,7 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
 #EXTINF:-1 group-title="Samsung TV",2730 Runtime TV e Filmes
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
-#EXTINF:-1 group-title="Samsung TV",2731 Sony One Classics
+#EXTINF:-1 group-title="Samsung TV",Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Samsung TV",2733 Moviesphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u
