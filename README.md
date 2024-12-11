@@ -10,7 +10,8 @@ https://www.bevy.be/generate/2jwqwNaR49.xml.gz
 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/2jwqwNaR49.xml
 
 # Em teste
-https://github.com/BUGGM3U/IPTV-BRASIL
+https://github.com/BUGGM3U/IPTV-BRASIL:
+(para ver o que tem e o que funciona) https://raw.githubusercontent.com/BUGGM3U/IPTV-BRASIL/refs/heads/main/tv_channels_priscilaj_plus.m3u
 
 https://github.com/Ramys/Iptv-Brasil-2025
 
