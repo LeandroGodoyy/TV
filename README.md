@@ -44,6 +44,9 @@ https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/2jwqwNaR49.xm
 
 **Lista**:
 
+1. https://raw.githubusercontent.com/jhonatadev/Iptv-Brasil-2022/refs/heads/master/Canais2022.m3u8
+2. https://raw.githubusercontent.com/jhonatadev/Iptv-Brasil-2022/refs/heads/master/ListaCanais.m3u8
+
 ---
 
 ## IPTV Legal
