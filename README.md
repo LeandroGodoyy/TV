@@ -2,6 +2,8 @@
 
 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/TVm3u8.m3u8
 
+https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/TV%20(Testando%20editor).m3u8
+
 # TV EPG
 
 testando um gerador:
