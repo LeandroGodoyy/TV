@@ -48,3 +48,7 @@ https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/2jwqwNaR49.xm
 ## IPTV Legal
 
 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/iptvlegal.m3u
+
+## Dicas
+
+https://github.com/iptv-org/awesome-iptv
