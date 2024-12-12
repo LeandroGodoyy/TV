@@ -3,6 +3,11 @@
 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/TVm3u8.m3u8
 
 # TV EPG
+
+testando um gerador:
+
+http://m3u4u.com/epg/xe47yzekj6upwqvvn9vq
+
 10/12/2024 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/2jwqwNaR49.xml
 
 https://raw.githubusercontent.com/ManuelSousa1974/EPG-BRASIL/refs/heads/master/Tv_guide.xml
