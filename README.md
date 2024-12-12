@@ -17,14 +17,6 @@ https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/2jwqwNaR49.xm
 
 **Para ver o que tem e o que funciona:**
 
-**Fonte**: https://github.com/BUGGM3U/IPTV-BRASIL:
-
-**Lista**: https://raw.githubusercontent.com/BUGGM3U/IPTV-BRASIL/refs/heads/main/tv_channels_priscilaj_plus.m3u
-
----
-
-**Para ver o que tem e o que funciona:**
-
 **Fonte**: https://github.com/Ramys/Iptv-Brasil-2025
 
 **Lista**: 
