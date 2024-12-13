@@ -6,7 +6,9 @@ EPG: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.x
 
 Lista TVm38: https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/TV.m3u8
 
-EPG:
+EPG: http://m3u4u.com/xml/xe47yzekj6upwqvvn9vq (xml)
+
+http://m3u4u.com/epg/xe47yzekj6upwqvvn9vq (gz)
 
 # Configurando
 
