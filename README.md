@@ -4,6 +4,10 @@ Lista: https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/PlutoT
 
 EPG: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml
 
+Lista TVm38: https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/TV.m3u8
+
+EPG:
+
 # Configurando
 
 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/TVm3u8.m3u8
