@@ -12,6 +12,8 @@ EPG: http://m3u4u.com/xml/xe47yzekj6upwqvvn9vq (xml)
 
 http://m3u4u.com/epg/xe47yzekj6upwqvvn9vq (gz)
 
+http://m3u4u.com/epg/476rnmjx1kh4651ryekg (TODATV gz)
+
 # Configurando
 
 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/TVm3u8.m3u8
