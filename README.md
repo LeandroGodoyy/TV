@@ -1,3 +1,9 @@
+## Pluto TV (Ok)
+
+Lista: https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/PlutoTV.m3u8
+
+EPG: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml
+
 # Configurando
 
 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/TVm3u8.m3u8
