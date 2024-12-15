@@ -4,13 +4,11 @@ Lista: https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/PlutoT
 
 EPG: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml
 
-Lista TVm38: https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/TVm3u8.m3u8
+Lista TVm38: 
 
 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/TODATV.m3u8 (TODATV)
 
-EPG: http://m3u4u.com/xml/xe47yzekj6upwqvvn9vq (xml)
-
-http://m3u4u.com/epg/xe47yzekj6upwqvvn9vq (gz)
+EPG:
 
 http://m3u4u.com/epg/476rnmjx1kh4651ryekg (TODATV gz)
 
