@@ -18,22 +18,6 @@ https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/TVm3u8.m3u8
 
 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/TV%20(Testando%20editor).m3u8
 
-# TV EPG
-
-testando um gerador:
-
-http://m3u4u.com/epg/xe47yzekj6upwqvvn9vq
-
-10/12/2024 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/2jwqwNaR49.xml
-
-https://raw.githubusercontent.com/ManuelSousa1974/EPG-BRASIL/refs/heads/master/Tv_guide.xml
-
-https://www.bevy.be/generate/2jwqwNaR49.xml
-
-https://www.bevy.be/generate/2jwqwNaR49.xml.gz
-
-https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/2jwqwNaR49.xml
-
 # Em teste
 
 **Para ver o que tem e o que funciona:**
