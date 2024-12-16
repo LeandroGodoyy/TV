@@ -55,6 +55,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66296e755
 https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
 #EXTINF:-1 tvg-id="62e010e6cd663f0007e57dc8" tvg-name="Cultura Fast - Samsung TV" tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png" group-title="Variedades",Cultura Fast - Samsung TV
 https://cc-oeelrj1iysbeq.akamaized.net/TV_Cultura/TV_Cultura_BR/TV_Cultura.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DiaTV" tvg-logo="" group-title="Variedades",DiaTV
+https://ythls.armelin.one/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DiaTV - YouTube" tvg-logo="https://images.pluto.tv/channels/662156805a31f70013dba21c/featuredImage.jpg" group-title="Variedades",DiaTV - YouTube
 https://www.youtube.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ/live
 #EXTINF:-1 tvg-id="662156805a31f70013dba21c" tvg-name="DiaTV - Pluto TV" tvg-logo="https://images.pluto.tv/channels/662156805a31f70013dba21c/colorLogoPNG.png" group-title="Variedades",DiaTV - Pluto TV
@@ -779,9 +781,9 @@ http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/310
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/309
 #EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16138_dark_360w_270h.png" group-title="Cinema",Universal Channel
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/319
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="3 Palavrinhas" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="Infantil",3 Palavrinhas
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="3 Palavrinhas" tvg-logo="https://images.tcdn.com.br/img/img_prod/1225247/1710896290_logonovo.png" group-title="Infantil",3 Palavrinhas
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/670
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Casa do Mickey Mouse" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="Infantil",A Casa do Mickey Mouse
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Casa do Mickey Mouse" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/94C35C1FFA856C312598E39C9EB844D1E283EE7BB8E3A2A28A96D8540B2C8CA9/scale?width=1200&aspectRatio=1.78&format=webp" group-title="Infantil",A Casa do Mickey Mouse
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/671
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Mansão Foster" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="Infantil",A Mansão Foster
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/674
@@ -915,7 +917,7 @@ http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/357
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/360
 #EXTINF:-1 tvg-id="GLOOBINHO(Portuguese).br" tvg-name="Gloobinho [2]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107894_dark_360w_270h.png" group-title="Infantil",Gloobinho [2]
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/359
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="He-Man" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="Infantil",He-Man
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="He-Man" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/He-Man_and_the_Masters_of_the_Universe.jpg/640px-He-Man_and_the_Masters_of_the_Universe.jpg" group-title="Infantil",He-Man
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/694
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Homem de Ferro" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="Infantil",Homem de Ferro
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/697
@@ -949,7 +951,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a63
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liga da Justiça" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="Infantil",Liga da Justiça
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/701
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masha e o Urso" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="Infantil",Masha e o Urso
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masha e o Urso" tvg-logo="https://historiaparadormir.org/wp-content/uploads/2024/04/Historinha-Masha-e-o-Urso-Historia-Para-Dormir.png" group-title="Infantil",Masha e o Urso
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/702
 #EXTINF:-1 tvg-id="63eba189c111bc0008ff59c5" tvg-name="Moranguinho" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="Infantil",Moranguinho
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/703
@@ -957,7 +959,7 @@ http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/703
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="63eba189c111bc0008ff59c5" tvg-name="Moranguinho - Pluto TV [2]" tvg-logo="http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="Infantil",Moranguinho - Pluto TV [2]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-name="Naruto" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="Infantil",Naruto
+#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Infantil",Naruto
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/704
 #EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-name="Naruto - Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Infantil",Naruto - Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -1011,7 +1013,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f5c216df68f920007888315" tvg-name="O Reino Infantil - Pluto TV [3]" tvg-logo="https://imgur.com/ElG7z3z.png" group-title="Infantil",O Reino Infantil - Pluto TV [3]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="5f5c216df68f920007888315" tvg-name="O Reino Infantil - Samsung TV" tvg-logo="" group-title="Infantil",O Reino Infantil - Samsung TV
+#EXTINF:-1 tvg-id="5f5c216df68f920007888315" tvg-name="O Reino Infantil - Samsung TV" tvg-logo="https://imgur.com/ElG7z3z.png" group-title="Infantil",O Reino Infantil - Samsung TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&samsung_app_domain=APP_DOMAIN&samsung_app_name=APP_NAME&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="63221bafdc6e110007b50270" tvg-name="Oggy e as Baratas Tontas - Pluto TV" tvg-logo="http://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="Infantil",Oggy e as Baratas Tontas - Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -1057,7 +1059,7 @@ http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/715
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/716
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pink & Cérebro" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="Infantil",Pink & Cérebro
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/717
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pokèmon" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="Infantil",Pokèmon
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pokèmon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1024px-International_Pok%C3%A9mon_logo.svg.png" group-title="Infantil",Pokèmon
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/720
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popeye" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="Infantil",Popeye
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/721
