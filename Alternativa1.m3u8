@@ -1,0 +1,385 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/5g28ne2d8xav7q9gyzpe"
+#EXTINF:-1 tvg-id="AandE(Portuguese).br" tvg-name="A&E" tvg-logo="" group-title="BRASIL",A&E
+http://supersonictv.live:8080/329474/903964/84935
+#EXTINF:-1 tvg-chno="2" tvg-id="AMC(Portuguese).br" tvg-name="AMC" tvg-logo="" group-title="BRASIL",AMC
+http://supersonictv.live:8080/329474/903964/85125
+#EXTINF:-1 tvg-id="AnimalPlanet(Portuguese).br" tvg-name="Animal Planet" tvg-logo="" group-title="BRASIL",Animal Planet
+http://supersonictv.live:8080/329474/903964/84936
+#EXTINF:-1 tvg-id="Arte1(Portuguese).br" tvg-name="Arte 1" tvg-logo="" group-title="BRASIL",Arte 1
+http://supersonictv.live:8080/329474/903964/84937
+#EXTINF:-1 tvg-id="AXN(Portuguese).br" tvg-name="AXN" tvg-logo="" group-title="BRASIL",AXN
+http://supersonictv.live:8080/329474/903964/84938
+#EXTINF:-1 tvg-id="BABYTV(Portuguese).br" tvg-name="Baby" tvg-logo="" group-title="BRASIL",Baby
+http://supersonictv.live:8080/329474/903964/84939
+#EXTINF:-1 tvg-id="Band(Portuguese).br" tvg-name="Band" tvg-logo="" group-title="BRASIL",Band
+http://supersonictv.live:8080/329474/903964/84940
+#EXTINF:-1 tvg-id="BandNews(Portuguese).br" tvg-name="Band News" tvg-logo="" group-title="BRASIL",Band News
+http://supersonictv.live:8080/329474/903964/84941
+#EXTINF:-1 tvg-id="BandSports(Portuguese).br" tvg-name="Band Sports" tvg-logo="" group-title="BRASIL",Band Sports
+http://supersonictv.live:8080/329474/903964/84942
+#EXTINF:-1 tvg-id="BIS(Portuguese).br" tvg-name="BIS" tvg-logo="" group-title="BRASIL",BIS
+http://supersonictv.live:8080/329474/903964/84943
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26 Argentina" tvg-logo="" group-title="BRASIL",Canal 26 Argentina
+http://supersonictv.live:8080/329474/903964/85152
+#EXTINF:-1 tvg-id="CanalBrasil(Portuguese).br" tvg-name="Canal Brasil" tvg-logo="" group-title="BRASIL",Canal Brasil
+http://supersonictv.live:8080/329474/903964/84945
+#EXTINF:-1 tvg-id="CartoonNetwork(Portuguese).br" tvg-name="Cartoon Network" tvg-logo="" group-title="BRASIL",Cartoon Network
+http://supersonictv.live:8080/329474/903964/84946
+#EXTINF:-1 tvg-id="Cartoonito(Portuguese).br" tvg-name="Cartoonito" tvg-logo="" group-title="BRASIL",Cartoonito
+http://supersonictv.live:8080/329474/903964/84944
+#EXTINF:-1 tvg-id="ChefTv(Portuguese).br" tvg-name="Chef TV" tvg-logo="" group-title="BRASIL",Chef TV
+http://supersonictv.live:8080/329474/903964/84947
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ChromaTV" tvg-logo="" group-title="BRASIL",ChromaTV
+http://supersonictv.live:8080/329474/903964/85368
+#EXTINF:-1 tvg-id="Cinemax(Portuguese).br" tvg-name="Cinemax" tvg-logo="" group-title="BRASIL",Cinemax
+http://supersonictv.live:8080/329474/903964/84948
+#EXTINF:-1 tvg-id="Cinemax(Portuguese).br" tvg-name="Cinemax [2]" tvg-logo="" group-title="BRASIL",Cinemax [2]
+http://supersonictv.live:8080/329474/903964/84949
+#EXTINF:-1 tvg-id="CNNBrasil(Portuguese).br" tvg-name="CNN Brasil" tvg-logo="" group-title="BRASIL",CNN Brasil
+http://supersonictv.live:8080/329474/903964/84950
+#EXTINF:-1 tvg-id="CNNEnEspanol(Portuguese).br" tvg-name="CNN Espanhol" tvg-logo="" group-title="BRASIL",CNN Espanhol
+http://supersonictv.live:8080/329474/903964/84951
+#EXTINF:-1 tvg-id="CNNInternational(Portuguese).br" tvg-name="CNN Internacional" tvg-logo="" group-title="BRASIL",CNN Internacional
+http://supersonictv.live:8080/329474/903964/84952
+#EXTINF:-1 tvg-id="CNT(Portuguese).br" tvg-name="CNT" tvg-logo="" group-title="BRASIL",CNT
+http://supersonictv.live:8080/329474/903964/85163
+#EXTINF:-1 tvg-id="Combate(Portuguese).br" tvg-name="Combate" tvg-logo="" group-title="BRASIL",Combate
+http://supersonictv.live:8080/329474/903964/85165
+#EXTINF:-1 tvg-id="Combate(Portuguese).br" tvg-name="Combate [2]" tvg-logo="" group-title="BRASIL",Combate [2]
+http://supersonictv.live:8080/329474/903964/84953
+#EXTINF:-1 tvg-id="ComedyCentral(Portuguese).br" tvg-name="Comedy Central" tvg-logo="" group-title="BRASIL",Comedy Central
+http://supersonictv.live:8080/329474/903964/84954
+#EXTINF:-1 tvg-id="Curta(Portuguese).br" tvg-name="Curta!" tvg-logo="" group-title="BRASIL",Curta!
+http://supersonictv.live:8080/329474/903964/84963
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Demais TV" tvg-logo="" group-title="BRASIL",Demais TV
+http://supersonictv.live:8080/329474/903964/85370
+#EXTINF:-1 tvg-id="DiscoveryChannel(Portuguese).br" tvg-name="Discovery Channel" tvg-logo="" group-title="BRASIL",Discovery Channel
+http://supersonictv.live:8080/329474/903964/84966
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth(Portuguese).br" tvg-name="Discovery Home & Health" tvg-logo="" group-title="BRASIL",Discovery Home & Health
+http://supersonictv.live:8080/329474/903964/84967
+#EXTINF:-1 tvg-id="InvestigacaoDiscovery(Portuguese).br" tvg-name="Discovery ID" tvg-logo="" group-title="BRASIL",Discovery ID
+http://supersonictv.live:8080/329474/903964/84968
+#EXTINF:-1 tvg-id="DiscoveryKids(Portuguese).br" tvg-name="Discovery Kids" tvg-logo="" group-title="BRASIL",Discovery Kids
+http://supersonictv.live:8080/329474/903964/84969
+#EXTINF:-1 tvg-id="DiscoveryScience(Portuguese).br" tvg-name="Discovery Science" tvg-logo="" group-title="BRASIL",Discovery Science
+http://supersonictv.live:8080/329474/903964/84970
+#EXTINF:-1 tvg-id="DiscoveryTheater(Portuguese).br" tvg-name="Discovery Theather" tvg-logo="" group-title="BRASIL",Discovery Theather
+http://supersonictv.live:8080/329474/903964/84971
+#EXTINF:-1 tvg-id="DiscoveryTurbo(Portuguese).br" tvg-name="Discovery Turbo" tvg-logo="" group-title="BRASIL",Discovery Turbo
+http://supersonictv.live:8080/329474/903964/84972
+#EXTINF:-1 tvg-id="DiscoveryWorld(Portuguese).br" tvg-name="Discovery World" tvg-logo="" group-title="BRASIL",Discovery World
+http://supersonictv.live:8080/329474/903964/84973
+#EXTINF:-1 tvg-id="DisneyChannel(Portuguese).br" tvg-name="Disney Channel" tvg-logo="" group-title="BRASIL",Disney Channel
+http://supersonictv.live:8080/329474/903964/84974
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Jr" tvg-logo="" group-title="BRASIL",Disney Jr
+http://supersonictv.live:8080/329474/903964/84975
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJTV HD" tvg-logo="" group-title="BRASIL",DJTV HD
+http://supersonictv.live:8080/329474/903964/85362
+#EXTINF:-1 tvg-id="DOGTV(Portuguese).br" tvg-name="Dog TV" tvg-logo="" group-title="BRASIL",Dog TV
+http://supersonictv.live:8080/329474/903964/85171
+#EXTINF:-1 tvg-id="E(Portuguese).br" tvg-name="E!" tvg-logo="" group-title="BRASIL",E!
+http://supersonictv.live:8080/329474/903964/84977
+#EXTINF:-1 tvg-id="ESPN(Portuguese).br" tvg-name="ESPN" tvg-logo="" group-title="BRASIL",ESPN
+http://supersonictv.live:8080/329474/903964/85178
+#EXTINF:-1 tvg-id="ESPN(Portuguese).br" tvg-name="ESPN [2]" tvg-logo="" group-title="BRASIL",ESPN [2]
+http://supersonictv.live:8080/329474/903964/84979
+#EXTINF:-1 tvg-id="ESPN(Portuguese).br" tvg-name="ESPN [3]" tvg-logo="" group-title="BRASIL",ESPN [3]
+http://supersonictv.live:8080/329474/903964/84981
+#EXTINF:-1 tvg-id="ESPN2(Portuguese).br" tvg-name="ESPN 3" tvg-logo="" group-title="BRASIL",ESPN 3
+http://supersonictv.live:8080/329474/903964/84978
+#EXTINF:-1 tvg-id="ESPN6(Portuguese).br" tvg-name="ESPN 6" tvg-logo="" group-title="BRASIL",ESPN 6
+http://supersonictv.live:8080/329474/903964/84980
+#EXTINF:-1 tvg-id="FishTV(Portuguese).br" tvg-name="Fish TV" tvg-logo="" group-title="BRASIL",Fish TV
+http://supersonictv.live:8080/329474/903964/84983
+#EXTINF:-1 tvg-id="FoodNetwork(Portuguese).br" tvg-name="Food Network" tvg-logo="" group-title="BRASIL",Food Network
+http://supersonictv.live:8080/329474/903964/84985
+#EXTINF:-1 tvg-id="StarChannel(Portuguese).br" tvg-name="Star Channel" tvg-logo="" group-title="BRASIL",Star Channel
+http://supersonictv.live:8080/329474/903964/84986
+#EXTINF:-1 tvg-id="Cinecanal(Portuguese).br" tvg-name="Cine Canal" tvg-logo="" group-title="BRASIL",Cine Canal
+http://supersonictv.live:8080/329474/903964/84987
+#EXTINF:-1 tvg-id="FoxNewsChannel(Portuguese).br" tvg-name="Fox News" tvg-logo="" group-title="BRASIL",Fox News
+http://supersonictv.live:8080/329474/903964/84988
+#EXTINF:-1 tvg-id="ESPN4(Portuguese).br" tvg-name="ESPN 4" tvg-logo="" group-title="BRASIL",ESPN 4
+http://supersonictv.live:8080/329474/903964/84991
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 5" tvg-logo="" group-title="BRASIL",ESPN 5
+http://supersonictv.live:8080/329474/903964/85181
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [3]" tvg-logo="" group-title="BRASIL",Fox Sports [3]
+http://supersonictv.live:8080/329474/903964/85182
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [4]" tvg-logo="" group-title="BRASIL",Fox Sports [4]
+http://supersonictv.live:8080/329474/903964/84993
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [5]" tvg-logo="" group-title="BRASIL",Fox Sports [5]
+http://supersonictv.live:8080/329474/903964/84994
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2 [2]" tvg-logo="" group-title="BRASIL",Fox Sports 2 [2]
+http://supersonictv.live:8080/329474/903964/84992
+#EXTINF:-1 tvg-id="FX(Portuguese).br" tvg-name="FX" tvg-logo="" group-title="BRASIL",FX
+http://supersonictv.live:8080/329474/903964/84995
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo" tvg-logo="" group-title="BRASIL",Globo
+http://supersonictv.live:8080/329474/903964/85183
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo EPTV" tvg-logo="" group-title="BRASIL",Globo EPTV
+http://supersonictv.live:8080/329474/903964/84998
+#EXTINF:-1 tvg-id="GloboNews(Portuguese).br" tvg-name="Globo News" tvg-logo="" group-title="BRASIL",Globo News
+http://supersonictv.live:8080/329474/903964/85005
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo SP" tvg-logo="" group-title="BRASIL",Globo SP
+http://supersonictv.live:8080/329474/903964/85015
+#EXTINF:-1 tvg-id="Gloob(Portuguese).br" tvg-name="Gloob" tvg-logo="" group-title="BRASIL",Gloob
+http://supersonictv.live:8080/329474/903964/85030
+#EXTINF:-1 tvg-id="GLOOBINHO(Portuguese).br" tvg-name="Gloobinho" tvg-logo="" group-title="BRASIL",Gloobinho
+http://supersonictv.live:8080/329474/903964/85031
+#EXTINF:-1 tvg-id="GNT(Portuguese).br" tvg-name="GNT" tvg-logo="" group-title="BRASIL",GNT
+http://supersonictv.live:8080/329474/903964/85032
+#EXTINF:-1 tvg-id="History2(Portuguese).br" tvg-name="History 2" tvg-logo="" group-title="BRASIL",History 2
+http://supersonictv.live:8080/329474/903964/85033
+#EXTINF:-1 tvg-id="HBO2(Portuguese).br" tvg-name="HBO 2" tvg-logo="" group-title="BRASIL",HBO 2
+http://supersonictv.live:8080/329474/903964/85211
+#EXTINF:-1 tvg-id="HBO2(Portuguese).br" tvg-name="HBO 2 [2]" tvg-logo="" group-title="BRASIL",HBO 2 [2]
+http://supersonictv.live:8080/329474/903964/85212
+#EXTINF:-1 tvg-id="HBO2(Portuguese).br" tvg-name="HBO 2 [3]" tvg-logo="" group-title="BRASIL",HBO 2 [3]
+http://supersonictv.live:8080/329474/903964/85034
+#EXTINF:-1 tvg-id="HBO(Portuguese).br" tvg-name="HBO" tvg-logo="" group-title="BRASIL",HBO
+http://supersonictv.live:8080/329474/903964/85213
+#EXTINF:-1 tvg-id="HBO(Portuguese).br" tvg-name="HBO [2]" tvg-logo="" group-title="BRASIL",HBO [2]
+http://supersonictv.live:8080/329474/903964/85214
+#EXTINF:-1 tvg-id="HBO(Portuguese).br" tvg-name="HBO [3]" tvg-logo="" group-title="BRASIL",HBO [3]
+http://supersonictv.live:8080/329474/903964/85215
+#EXTINF:-1 tvg-id="HBOFamily(Portuguese).br" tvg-name="HBO Family" tvg-logo="" group-title="BRASIL",HBO Family
+http://supersonictv.live:8080/329474/903964/85216
+#EXTINF:-1 tvg-id="HBOFamily(Portuguese).br" tvg-name="HBO Family [2]" tvg-logo="" group-title="BRASIL",HBO Family [2]
+http://supersonictv.live:8080/329474/903964/85217
+#EXTINF:-1 tvg-id="HBOFamily(Portuguese).br" tvg-name="HBO Family [3]" tvg-logo="" group-title="BRASIL",HBO Family [3]
+http://supersonictv.live:8080/329474/903964/85035
+#EXTINF:-1 tvg-id="HBO(Portuguese).br" tvg-name="HBO [4]" tvg-logo="" group-title="BRASIL",HBO [4]
+http://supersonictv.live:8080/329474/903964/85036
+#EXTINF:-1 tvg-id="HBOMundi(Portuguese).br" tvg-name="HBO Mundi" tvg-logo="" group-title="BRASIL",HBO Mundi
+http://supersonictv.live:8080/329474/903964/85218
+#EXTINF:-1 tvg-id="HBOMundi(Portuguese).br" tvg-name="HBO Mundi [2]" tvg-logo="" group-title="BRASIL",HBO Mundi [2]
+http://supersonictv.live:8080/329474/903964/85219
+#EXTINF:-1 tvg-id="HBOMundi(Portuguese).br" tvg-name="HBO Mundi [3]" tvg-logo="" group-title="BRASIL",HBO Mundi [3]
+http://supersonictv.live:8080/329474/903964/85037
+#EXTINF:-1 tvg-id="HBOPlus(Portuguese).br" tvg-name="HBO Plus" tvg-logo="" group-title="BRASIL",HBO Plus
+http://supersonictv.live:8080/329474/903964/85038
+#EXTINF:-1 tvg-id="HBOPop(Portuguese).br" tvg-name="HBO Pop" tvg-logo="" group-title="BRASIL",HBO Pop
+http://supersonictv.live:8080/329474/903964/85220
+#EXTINF:-1 tvg-id="HBOPop(Portuguese).br" tvg-name="HBO Pop [2]" tvg-logo="" group-title="BRASIL",HBO Pop [2]
+http://supersonictv.live:8080/329474/903964/85039
+#EXTINF:-1 tvg-id="HBOSignature(Portuguese).br" tvg-name="HBO Signature" tvg-logo="" group-title="BRASIL",HBO Signature
+http://supersonictv.live:8080/329474/903964/85040
+#EXTINF:-1 tvg-id="HBOXtreme(Portuguese).br" tvg-name="HBO Xtreme" tvg-logo="" group-title="BRASIL",HBO Xtreme
+http://supersonictv.live:8080/329474/903964/85221
+#EXTINF:-1 tvg-id="HBOXtreme(Portuguese).br" tvg-name="HBO Xtreme [2]" tvg-logo="" group-title="BRASIL",HBO Xtreme [2]
+http://supersonictv.live:8080/329474/903964/85222
+#EXTINF:-1 tvg-id="HBOXtreme(Portuguese).br" tvg-name="HBO Xtreme [3]" tvg-logo="" group-title="BRASIL",HBO Xtreme [3]
+http://supersonictv.live:8080/329474/903964/85223
+#EXTINF:-1 tvg-id="HBOXtreme(Portuguese).br" tvg-name="HBO Xtreme [4]" tvg-logo="" group-title="BRASIL",HBO Xtreme [4]
+http://supersonictv.live:8080/329474/903964/85041
+#EXTINF:-1 tvg-id="HGTV(Portuguese).br" tvg-name="HGTV" tvg-logo="" group-title="BRASIL",HGTV
+http://supersonictv.live:8080/329474/903964/85042
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV1" tvg-logo="" group-title="BRASIL",ITV1
+http://supersonictv.live:8080/329474/903964/85227
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Life Channel [?]" tvg-logo="" group-title="BRASIL",Life Channel [?]
+http://supersonictv.live:8080/329474/903964/85364
+#EXTINF:-1 tvg-id="Lifetime(Portuguese).br" tvg-name="Lifetime" tvg-logo="" group-title="BRASIL",Lifetime
+http://supersonictv.live:8080/329474/903964/85045
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Modo Viagem" tvg-logo="" group-title="BRASIL",Modo Viagem
+http://supersonictv.live:8080/329474/903964/85046
+#EXTINF:-1 tvg-id="Megapix(Portuguese).br" tvg-name="Megapix" tvg-logo="" group-title="BRASIL",Megapix
+http://supersonictv.live:8080/329474/903964/85232
+#EXTINF:-1 tvg-id="Megapix(Portuguese).br" tvg-name="Megapix [2]" tvg-logo="" group-title="BRASIL",Megapix [2]
+http://supersonictv.live:8080/329474/903964/85047
+#EXTINF:-1 tvg-id="MTVBrasil(Portuguese).br" tvg-name="MTV" tvg-logo="" group-title="BRASIL",MTV
+http://supersonictv.live:8080/329474/903964/85048
+#EXTINF:-1 tvg-id="MTVBrasil(Portuguese).br" tvg-name="MTV [2]" tvg-logo="" group-title="BRASIL",MTV [2]
+http://supersonictv.live:8080/329474/903964/85049
+#EXTINF:-1 tvg-id="Multishow(Portuguese).br" tvg-name="Multishow" tvg-logo="" group-title="BRASIL",Multishow
+http://supersonictv.live:8080/329474/903964/85233
+#EXTINF:-1 tvg-id="Multishow(Portuguese).br" tvg-name="Multishow [2]" tvg-logo="" group-title="BRASIL",Multishow [2]
+http://supersonictv.live:8080/329474/903964/85050
+#EXTINF:-1 tvg-id="MusicBoxBrasil(Portuguese).br" tvg-name="Music Box Brasil" tvg-logo="" group-title="BRASIL",Music Box Brasil
+http://supersonictv.live:8080/329474/903964/85051
+#EXTINF:-1 tvg-id="NationalGeographic(Portuguese).br" tvg-name="National Geographic" tvg-logo="" group-title="BRASIL",National Geographic
+http://supersonictv.live:8080/329474/903964/85235
+#EXTINF:-1 tvg-id="NationalGeographic(Portuguese).br" tvg-name="National Geographic [2]" tvg-logo="" group-title="BRASIL",National Geographic [2]
+http://supersonictv.live:8080/329474/903964/85052
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic Wild" tvg-logo="" group-title="BRASIL",National Geographic Wild
+http://supersonictv.live:8080/329474/903964/85054
+#EXTINF:-1 tvg-id="NHK(English).br" tvg-name="NHK" tvg-logo="" group-title="BRASIL",NHK
+http://supersonictv.live:8080/329474/903964/85236
+#EXTINF:-1 tvg-id="Nickelodeon(Portuguese).br" tvg-name="Nickelodeon" tvg-logo="" group-title="BRASIL",Nickelodeon
+http://supersonictv.live:8080/329474/903964/85055
+#EXTINF:-1 tvg-id="NickJr(Portuguese).br" tvg-name="Nick Jr" tvg-logo="" group-title="BRASIL",Nick Jr
+http://supersonictv.live:8080/329474/903964/85056
+#EXTINF:-1 tvg-id="Off(Portuguese).br" tvg-name="OFF" tvg-logo="" group-title="BRASIL",OFF
+http://supersonictv.live:8080/329474/903964/85058
+#EXTINF:-1 tvg-id="ParamountChannel(Portuguese).br" tvg-name="Paramount Channel" tvg-logo="" group-title="BRASIL",Paramount Channel
+http://supersonictv.live:8080/329474/903964/85059
+#EXTINF:-1 tvg-id="PLAYTV(Portuguese).br" tvg-name="Play TV" tvg-logo="" group-title="BRASIL",Play TV
+http://supersonictv.live:8080/329474/903964/85061
+#EXTINF:-1 tvg-id="PrimeBoxBrazil(Portuguese).br" tvg-name="Prime Box Brasil" tvg-logo="" group-title="BRASIL",Prime Box Brasil
+http://supersonictv.live:8080/329474/903964/85069
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Primer TV" tvg-logo="" group-title="BRASIL",Primer TV
+http://supersonictv.live:8080/329474/903964/85367
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rede Brasil TV" tvg-logo="" group-title="BRASIL",Rede Brasil TV
+http://supersonictv.live:8080/329474/903964/85244
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record" tvg-logo="" group-title="BRASIL",Record
+http://supersonictv.live:8080/329474/903964/85245
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record [2]" tvg-logo="" group-title="BRASIL",Record [2]
+http://supersonictv.live:8080/329474/903964/85075
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="PlayPlus" tvg-logo="" group-title="BRASIL",PlayPlus
+http://supersonictv.live:8080/329474/903964/85077
+#EXTINF:-1 tvg-id="RecordNews(Portuguese).br" tvg-name="Record News" tvg-logo="" group-title="BRASIL",Record News
+http://supersonictv.live:8080/329474/903964/85079
+#EXTINF:-1 tvg-id="RedeSuper(Portuguese).br" tvg-name="Rede Super" tvg-logo="" group-title="BRASIL",Rede Super
+http://supersonictv.live:8080/329474/903964/85087
+#EXTINF:-1 tvg-id="RedeTV(Portuguese).br" tvg-name="Rede TV" tvg-logo="" group-title="BRASIL",Rede TV
+http://supersonictv.live:8080/329474/903964/85262
+#EXTINF:-1 tvg-id="RedeTV(Portuguese).br" tvg-name="Rede TV" tvg-logo="" group-title="BRASIL",Rede TV
+http://supersonictv.live:8080/329474/903964/85088
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Music" tvg-logo="" group-title="BRASIL",Retro Music
+http://supersonictv.live:8080/329474/903964/85263
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rock TV" tvg-logo="" group-title="BRASIL",Rock TV
+http://supersonictv.live:8080/329474/903964/85266
+#EXTINF:-1 tvg-id="SBT(Portuguese).br" tvg-name="SBT" tvg-logo="" group-title="BRASIL",SBT
+http://supersonictv.live:8080/329474/903964/85268
+#EXTINF:-1 tvg-id="SBT(Portuguese).br" tvg-name="SBT [2]" tvg-logo="" group-title="BRASIL",SBT [2]
+http://supersonictv.live:8080/329474/903964/85089
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT Interior SP" tvg-logo="" group-title="BRASIL",SBT Interior SP
+http://supersonictv.live:8080/329474/903964/85273
+#EXTINF:-1 tvg-id="SescTV(Portuguese).br" tvg-name="SescTV" tvg-logo="" group-title="BRASIL",SescTV
+http://supersonictv.live:8080/329474/903964/85281
+#EXTINF:-1 tvg-id="SonyChannel(Portuguese).br" tvg-name="Sony Channel" tvg-logo="" group-title="BRASIL",Sony Channel
+http://supersonictv.live:8080/329474/903964/85091
+#EXTINF:-1 tvg-id="Space(Portuguese).br" tvg-name="Space" tvg-logo="" group-title="BRASIL",Space
+http://supersonictv.live:8080/329474/903964/85282
+#EXTINF:-1 tvg-id="Space(Portuguese).br" tvg-name="Space [2]" tvg-logo="" group-title="BRASIL",Space [2]
+http://supersonictv.live:8080/329474/903964/85092
+#EXTINF:-1 tvg-id="SporTV2(Portuguese).br" tvg-name="SporTV 2" tvg-logo="" group-title="BRASIL",SporTV 2
+http://supersonictv.live:8080/329474/903964/85093
+#EXTINF:-1 tvg-id="SporTV3(Portuguese).br" tvg-name="SporTV 3" tvg-logo="" group-title="BRASIL",SporTV 3
+http://supersonictv.live:8080/329474/903964/85094
+#EXTINF:-1 tvg-id="SporTV(Portuguese).br" tvg-name="SPORTV" tvg-logo="" group-title="BRASIL",SPORTV
+http://supersonictv.live:8080/329474/903964/85283
+#EXTINF:-1 tvg-id="SporTV(Portuguese).br" tvg-name="SporTV [2]" tvg-logo="" group-title="BRASIL",SporTV [2]
+http://supersonictv.live:8080/329474/903964/85095
+#EXTINF:-1 tvg-id="StarChannel(Portuguese).br" tvg-name="Star Channel" tvg-logo="" group-title="BRASIL",Star Channel
+http://supersonictv.live:8080/329474/903964/85284
+#EXTINF:-1 tvg-id="StarChannel(Portuguese).br" tvg-name="Star Channel [2]" tvg-logo="" group-title="BRASIL",Star Channel [2]
+http://supersonictv.live:8080/329474/903964/85285
+#EXTINF:-1 tvg-id="StudioUniversal(Portuguese).br" tvg-name="Studio Universal" tvg-logo="" group-title="BRASIL",Studio Universal
+http://supersonictv.live:8080/329474/903964/85286
+#EXTINF:-1 tvg-id="StudioUniversal(Portuguese).br" tvg-name="Studio Universal [2]" tvg-logo="" group-title="BRASIL",Studio Universal [2]
+http://supersonictv.live:8080/329474/903964/85096
+#EXTINF:-1 tvg-id="SYFY(English).br" tvg-name="USA" tvg-logo="" group-title="BRASIL",USA
+http://supersonictv.live:8080/329474/903964/85097
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Taormina TV" tvg-logo="" group-title="BRASIL",Taormina TV
+http://supersonictv.live:8080/329474/903964/85288
+#EXTINF:-1 tvg-id="TBS(English).br" tvg-name="TNT Novelas" tvg-logo="" group-title="BRASIL",TNT Novelas
+http://supersonictv.live:8080/329474/903964/85098
+#EXTINF:-1 tvg-id="TelecineAction(Portuguese).br" tvg-name="Telecine Action" tvg-logo="" group-title="BRASIL",Telecine Action
+http://supersonictv.live:8080/329474/903964/85289
+#EXTINF:-1 tvg-id="TelecineAction(Portuguese).br" tvg-name="Telecine Action [2]" tvg-logo="" group-title="BRASIL",Telecine Action [2]
+http://supersonictv.live:8080/329474/903964/85290
+#EXTINF:-1 tvg-id="TelecineAction(Portuguese).br" tvg-name="Telecine Action [3]" tvg-logo="" group-title="BRASIL",Telecine Action [3]
+http://supersonictv.live:8080/329474/903964/85099
+#EXTINF:-1 tvg-id="TelecineCult(Portuguese).br" tvg-name="Telecine Cult" tvg-logo="" group-title="BRASIL",Telecine Cult
+http://supersonictv.live:8080/329474/903964/85291
+#EXTINF:-1 tvg-id="TelecineCult(Portuguese).br" tvg-name="Telecine Cult [2]" tvg-logo="" group-title="BRASIL",Telecine Cult [2]
+http://supersonictv.live:8080/329474/903964/85292
+#EXTINF:-1 tvg-id="TelecineCult(Portuguese).br" tvg-name="Telecine Cult [3]" tvg-logo="" group-title="BRASIL",Telecine Cult [3]
+http://supersonictv.live:8080/329474/903964/85100
+#EXTINF:-1 tvg-id="TelecineFun(Portuguese).br" tvg-name="Telecine Fun" tvg-logo="" group-title="BRASIL",Telecine Fun
+http://supersonictv.live:8080/329474/903964/85293
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Fun [2]" tvg-logo="" group-title="BRASIL",Telecine Fun [2]
+http://supersonictv.live:8080/329474/903964/85294
+#EXTINF:-1 tvg-id="TelecineFun(Portuguese).br" tvg-name="Telecine Fun [3]" tvg-logo="" group-title="BRASIL",Telecine Fun [3]
+http://supersonictv.live:8080/329474/903964/85101
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Pipoca" tvg-logo="" group-title="BRASIL",Telecine Pipoca
+http://supersonictv.live:8080/329474/903964/85295
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Pipoca [2]" tvg-logo="" group-title="BRASIL",Telecine Pipoca [2]
+http://supersonictv.live:8080/329474/903964/85296
+#EXTINF:-1 tvg-id="TelecinePipoca(Portuguese).br" tvg-name="Telecine Pipoca [3]" tvg-logo="" group-title="BRASIL",Telecine Pipoca [3]
+http://supersonictv.live:8080/329474/903964/85102
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Premium" tvg-logo="" group-title="BRASIL",Telecine Premium
+http://supersonictv.live:8080/329474/903964/85297
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Premium [2]" tvg-logo="" group-title="BRASIL",Telecine Premium [2]
+http://supersonictv.live:8080/329474/903964/85298
+#EXTINF:-1 tvg-id="TelecinePremium(Portuguese).br" tvg-name="Telecine Premium [3]" tvg-logo="" group-title="BRASIL",Telecine Premium [3]
+http://supersonictv.live:8080/329474/903964/85103
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Touch" tvg-logo="" group-title="BRASIL",Telecine Touch
+http://supersonictv.live:8080/329474/903964/85299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Touch [2]" tvg-logo="" group-title="BRASIL",Telecine Touch [2]
+http://supersonictv.live:8080/329474/903964/85300
+#EXTINF:-1 tvg-id="TelecineTouch(Portuguese).br" tvg-name="Telecine Touch [3]" tvg-logo="" group-title="BRASIL",Telecine Touch [3]
+http://supersonictv.live:8080/329474/903964/85104
+#EXTINF:-1 tvg-id="TCM(Portuguese).br" tvg-name="TCM" tvg-logo="" group-title="BRASIL",TCM
+http://supersonictv.live:8080/329474/903964/85105
+#EXTINF:-1 tvg-id="TelecinePremium(Portuguese).br" tvg-name="Telecine Premium [4]" tvg-logo="" group-title="BRASIL",Telecine Premium [4]
+http://supersonictv.live:8080/329474/903964/85301
+#EXTINF:-1 tvg-id="History(Portuguese).br" tvg-name="History" tvg-logo="" group-title="BRASIL",History
+http://supersonictv.live:8080/329474/903964/85106
+#EXTINF:-1 tvg-id="TLC(Portuguese).br" tvg-name="TLC" tvg-logo="" group-title="BRASIL",TLC
+http://supersonictv.live:8080/329474/903964/85107
+#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-name="TNT [2]" tvg-logo="" group-title="BRASIL",TNT [2]
+http://supersonictv.live:8080/329474/903964/85305
+#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-name="TNT [3]" tvg-logo="" group-title="BRASIL",TNT [3]
+http://supersonictv.live:8080/329474/903964/85306
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT [4]" tvg-logo="" group-title="BRASIL",TNT [4]
+http://supersonictv.live:8080/329474/903964/85307
+#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-name="TNT [5]" tvg-logo="" group-title="BRASIL",TNT [5]
+http://supersonictv.live:8080/329474/903964/85108
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Séries" tvg-logo="" group-title="BRASIL",TNT Séries
+http://supersonictv.live:8080/329474/903964/85308
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Séries [2]" tvg-logo="" group-title="BRASIL",TNT Séries [2]
+http://supersonictv.live:8080/329474/903964/85309
+#EXTINF:-1 tvg-id="TNTSeries(English).br" tvg-name="TNT Séries [3]" tvg-logo="" group-title="BRASIL",TNT Séries [3]
+http://supersonictv.live:8080/329474/903964/85109
+#EXTINF:-1 tvg-id="Tooncast(Portuguese).br" tvg-name="Tooncast" tvg-logo="" group-title="BRASIL",Tooncast
+http://supersonictv.live:8080/329474/903964/85110
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Box" tvg-logo="" group-title="BRASIL",Travel Box
+http://supersonictv.live:8080/329474/903964/85326
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tru TV" tvg-logo="" group-title="BRASIL",Tru TV
+http://supersonictv.live:8080/329474/903964/85111
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Cultura" tvg-logo="" group-title="BRASIL",TV Cultura
+http://supersonictv.live:8080/329474/903964/85333
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Cultura [2]" tvg-logo="" group-title="BRASIL",TV Cultura [2]
+http://supersonictv.live:8080/329474/903964/85334
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Educação" tvg-logo="" group-title="BRASIL",Canal Educação
+http://supersonictv.live:8080/329474/903964/85337
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Educação [2]" tvg-logo="" group-title="BRASIL",Canal Educação [2]
+http://supersonictv.live:8080/329474/903964/85338
+#EXTINF:-1 tvg-id="TVGazeta(Portuguese).br" tvg-name="TV Gazeta" tvg-logo="" group-title="BRASIL",TV Gazeta
+http://supersonictv.live:8080/329474/903964/85339
+#EXTINF:-1 tvg-id="TVGazeta(Portuguese).br" tvg-name="TV Gazeta [2]" tvg-logo="" group-title="BRASIL",TV Gazeta [2]
+http://supersonictv.live:8080/329474/903964/85114
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Cultura [3]" tvg-logo="" group-title="BRASIL",TV Cultura [3]
+http://supersonictv.live:8080/329474/903964/85363
+#EXTINF:-1 tvg-id="TVRaTimBum(Portuguese).br" tvg-name="TV Rá Tim Bum" tvg-logo="" group-title="BRASIL",TV Rá Tim Bum
+http://supersonictv.live:8080/329474/903964/85115
+#EXTINF:-1 tvg-id="TV5Monde(French).br" tvg-name="TV5 Monde" tvg-logo="" group-title="BRASIL",TV5 Monde
+http://supersonictv.live:8080/329474/903964/85351
+#EXTINF:-1 tvg-id="TVE(Spanish).br" tvg-name="TVE" tvg-logo="" group-title="BRASIL",TVE
+http://supersonictv.live:8080/329474/903964/85352
+#EXTINF:-1 tvg-id="UniversalTV(Portuguese).br" tvg-name="Universal Channel" tvg-logo="" group-title="BRASIL",Universal Channel
+http://supersonictv.live:8080/329474/903964/85119
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal Channel [2]" tvg-logo="" group-title="BRASIL",Universal Channel [2]
+http://supersonictv.live:8080/329474/903964/85354
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unique" tvg-logo="" group-title="BRASIL",Unique
+http://supersonictv.live:8080/329474/903964/85374
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV00s" tvg-logo="" group-title="BRASIL",MTV00s
+http://supersonictv.live:8080/329474/903964/85355
+#EXTINF:-1 tvg-id="VH1Megahits(Spanish).br" tvg-name="MTV Live" tvg-logo="" group-title="BRASIL",MTV Live
+http://supersonictv.live:8080/329474/903964/85120
+#EXTINF:-1 tvg-id="Viva(Portuguese).br" tvg-name="Viva" tvg-logo="" group-title="BRASIL",Viva
+http://supersonictv.live:8080/329474/903964/85121
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner Channel" tvg-logo="" group-title="BRASIL",Warner Channel
+http://supersonictv.live:8080/329474/903964/85356
+#EXTINF:-1 tvg-id="WarnerChannel(Portuguese).br" tvg-name="Warner Channel [2]" tvg-logo="" group-title="BRASIL",Warner Channel [2]
+http://supersonictv.live:8080/329474/903964/85122
+#EXTINF:-1 tvg-id="WooHoo(Portuguese).br" tvg-name="Wohoo" tvg-logo="" group-title="BRASIL",Wohoo
+http://supersonictv.live:8080/329474/903964/85123
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yeeaah" tvg-logo="" group-title="BRASIL",Yeeaah
+http://supersonictv.live:8080/329474/903964/85357
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoom TV" tvg-logo="" group-title="BRASIL",Zoom TV
+http://supersonictv.live:8080/329474/903964/85358
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZooMoo" tvg-logo="" group-title="BRASIL",ZooMoo
+http://supersonictv.live:8080/329474/903964/85359
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZooMoo [2]" tvg-logo="" group-title="BRASIL",ZooMoo [2]
+http://supersonictv.live:8080/329474/903964/85360
