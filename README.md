@@ -54,6 +54,10 @@ https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/TV%20(Testand
 
 ---
 
+**Para ver o que tem e o que funciona:**
+
+https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/gbkQBZbr.m3u
+
 ## IPTV Legal
 
 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/iptvlegal.m3u
