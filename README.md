@@ -8,9 +8,13 @@ Lista TVm38:
 
 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/TODATV.m3u8 (TODATV)
 
+https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/Alternativa1.m3u8 (Alt 1)
+
 EPG:
 
 http://m3u4u.com/epg/476rnmjx1kh4651ryekg (TODATV gz)
+
+http://m3u4u.com/epg/782dyqv1m3u1je5en4zp (Alt 1 gz)
 
 # Configurando
 
