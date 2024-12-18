@@ -52,6 +52,8 @@ https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/TV%20(Testand
 1. https://raw.githubusercontent.com/jhonatadev/Iptv-Brasil-2022/refs/heads/master/Canais2022.m3u8
 2. https://raw.githubusercontent.com/jhonatadev/Iptv-Brasil-2022/refs/heads/master/ListaCanais.m3u8
 
+---
+
 **Para ver o que tem e o que funciona:**
 
 Date:⮕ 2024-12-18 -- 08:26:57
