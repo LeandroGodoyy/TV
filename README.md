@@ -72,6 +72,8 @@ Date:⮕ 2024-12-18 -- 08:26:57
 
 ├❪🛸❫ Lɪɴᴋ:⮕ http://7cdnmax.xyz/get.php?username=gutotvz3&password=847485959&type=m3u_plus (A1)
 
+https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/A1.m3u
+
 ---
 
 ❪🛸❫ Hᴏsᴛ:⮕ http://7cdnmax.xyz
