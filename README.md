@@ -55,37 +55,68 @@ https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/TV%20(Testand
 **Para ver o que tem e o que funciona:**
 
 Date:⮕ 2024-12-18 -- 08:26:57
+
 ├❪🛸❫ Hᴏsᴛ:⮕ http://7cdnmax.xyz
+
 ├❪🛸❫ Usᴇʀɴᴀᴍᴇ:⮕ gutotvz3
+
 ├❪🛸❫ Pᴀssᴡᴏʀᴅ: ⮕847485959
+
 ├❪🛸❫ Sᴛᴀᴛᴜs:⮕ Active
+
 ├❪🛸❫ Cᴏɴɴᴇᴄᴛɪᴏɴs:⮕1/1
+
 ├❪🛸❫ Exᴘɪʀᴇ:⮕2025-01-02
-├❪🛸❫ Lɪɴᴋ:⮕ http://7cdnmax.xyz/get.php?username=gutotvz3&password=847485959&type=m3u_plus
+
+├❪🛸❫ Lɪɴᴋ:⮕ http://7cdnmax.xyz/get.php?username=gutotvz3&password=847485959&type=m3u_plus (A1)
+
+---
 
 ❪🛸❫ Hᴏsᴛ:⮕ http://7cdnmax.xyz
+
 ├❪🛸❫ Usᴇʀɴᴀᴍᴇ:⮕ PauloHenriquePolonia
+
 ├❪🛸❫ Pᴀssᴡᴏʀᴅ: ⮕frtv4343ytu
+
 ├❪🛸❫ Sᴛᴀᴛᴜs:⮕ Active
+
 ├❪🛸❫ Cᴏɴɴᴇᴄᴛɪᴏɴs:⮕2/2
+
 ├❪🛸❫ Exᴘɪʀᴇ:⮕2025-01-03
-├❪🛸❫ Lɪɴᴋ:⮕ http://7cdnmax.xyz/get.php?username=PauloHenriquePolonia&password=frtv4343ytu&type=m3u_plus
+
+├❪🛸❫ Lɪɴᴋ:⮕ http://7cdnmax.xyz/get.php?username=PauloHenriquePolonia&password=frtv4343ytu&type=m3u_plus (A2)
+
+---
 
 ❪🛸❫ Hᴏsᴛ:⮕ http://7cdnmax.xyz
+
 ├❪🛸❫ Usᴇʀɴᴀᴍᴇ:⮕ nenecm44
+
 ├❪🛸❫ Pᴀssᴡᴏʀᴅ: ⮕bvclkjtrewq65
+
 ├❪🛸❫ Sᴛᴀᴛᴜs:⮕ Active
+
 ├❪🛸❫ Cᴏɴɴᴇᴄᴛɪᴏɴs:⮕0/1
+
 ├❪🛸❫ Exᴘɪʀᴇ:⮕2025-01-30
-├❪🛸❫ Lɪɴᴋ:⮕ http://7cdnmax.xyz/get.php?username=nenecm44&password=bvclkjtrewq65&type=m3u_plus
+
+├❪🛸❫ Lɪɴᴋ:⮕ http://7cdnmax.xyz/get.php?username=nenecm44&password=bvclkjtrewq65&type=m3u_plus (A3)
+
+---
 
 ❪🛸❫ Hᴏsᴛ:⮕ http://7cdnmax.xyz
+
 ├❪🛸❫ Usᴇʀɴᴀᴍᴇ:⮕ b2dos6vl
+
 ├❪🛸❫ Pᴀssᴡᴏʀᴅ: ⮕2ykmmjq6
+
 ├❪🛸❫ Sᴛᴀᴛᴜs:⮕ Active
+
 ├❪🛸❫ Cᴏɴɴᴇᴄᴛɪᴏɴs:⮕0/1
+
 ├❪🛸❫ Exᴘɪʀᴇ:⮕2025-01-06
-├❪🛸❫ Lɪɴᴋ:⮕ http://7cdnmax.xyz/get.php?username=b2dos6vl&password=2ykmmjq6&type=m3u_plus
+
+├❪🛸❫ Lɪɴᴋ:⮕ http://7cdnmax.xyz/get.php?username=b2dos6vl&password=2ykmmjq6&type=m3u_plus (A4)
 
 ---
 
