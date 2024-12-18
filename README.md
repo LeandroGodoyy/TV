@@ -124,6 +124,44 @@ https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/A1.m3u
 
 ---
 
+╠═🔳🚥 Host ⌦ http://playclubhouse.net
+
+╠═🔳📡 Port ⌦ 80
+
+╠═🔳👤 User ⌦ 30921276
+
+╠═🔳🔐 Pass ⌦ r319Z8072W
+
+╠═🔳📆 Created ⌦ 06-07-2023
+
+╠═🔳⏳ Expire ⌦ 13/12/2025
+
+╠═🔳⏳ Vence Em 367 Dias
+
+╠═🔳📊 Act Con ⌦ 1
+
+╠═🔳🔝 Max Con ⌦ 1
+
+╠═🔳🌐 Status ⌦ Active
+
+╠═🔳🌍 TimeZone ⌦ America/Sao_Paulo
+
+╠═🔳⏰ Scan ⌦ 2024-12-11 13:57:24
+
+╠═━━━━━➢ ᴄᴀᴛᴇɢᴏʀɪᴇꜱ
+
+╠═🔳📺 Channels ⌦2517
+
+╠═🔳🎬 Movies ⌦12886
+
+╠═🔳🎥 Series ⌦3989
+
+┣━━━━━➢🔗m3u_Url⌦
+
+http://playclubhouse.net/get.php?username=30921276&password=r319Z8072W&type=m3u_plus (B1)
+
+---
+
 ## IPTV Legal
 
 https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/iptvlegal.m3u
