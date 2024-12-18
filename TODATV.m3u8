@@ -65,11 +65,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/662156805
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/662156805a31f70013dba21c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="662156805a31f70013dba21c" tvg-name="DiaTV - Samsung TV" tvg-logo="https://images.pluto.tv/channels/662156805a31f70013dba21c/colorLogoPNG.png" group-title="Variedades",DiaTV - Samsung TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/662156805a31f70013dba21c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/E%21_Logo_Flat_2012.svg/320px-E%21_Logo_Flat_2012.svg.png" group-title="Variedades",E!
+#EXTINF:-1 tvg-id="E(Portuguese).br" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/E%21_Logo_Flat_2012.svg/320px-E%21_Logo_Flat_2012.svg.png" group-title="Variedades",E!
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/103
-#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! [2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/E%21_Logo_Flat_2012.svg/320px-E%21_Logo_Flat_2012.svg.png" group-title="Variedades",E! [2]
+#EXTINF:-1 tvg-id="E(Portuguese).br" tvg-name="E! [2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/E%21_Logo_Flat_2012.svg/320px-E%21_Logo_Flat_2012.svg.png" group-title="Variedades",E! [2]
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/102
-#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! [3]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/E%21_Logo_Flat_2012.svg/320px-E%21_Logo_Flat_2012.svg.png" group-title="Variedades",E! [3]
+#EXTINF:-1 tvg-id="E(Portuguese).br" tvg-name="E! [3]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/E%21_Logo_Flat_2012.svg/320px-E%21_Logo_Flat_2012.svg.png" group-title="Variedades",E! [3]
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/101
 #EXTINF:-1 tvg-id="FashionTVBrazil(Portuguese).br" tvg-name="Fashion TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98036_dark_360w_270h.png" group-title="Variedades",Fashion TV
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/878
@@ -951,9 +951,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a63
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liga da Justiça" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="Infantil",Liga da Justiça
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/701
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masha e o Urso" tvg-logo="https://historiaparadormir.org/wp-content/uploads/2024/04/Historinha-Masha-e-o-Urso-Historia-Para-Dormir.png" group-title="Infantil",Masha e o Urso
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masha e o Urso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Masha_and_The_Bear_logo.png" group-title="Infantil",Masha e o Urso
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/702
-#EXTINF:-1 tvg-id="63eba189c111bc0008ff59c5" tvg-name="Moranguinho" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="Infantil",Moranguinho
+#EXTINF:-1 tvg-id="63eba189c111bc0008ff59c5" tvg-name="Moranguinho" tvg-logo="http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="Infantil",Moranguinho
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/703
 #EXTINF:-1 tvg-id="63eba189c111bc0008ff59c5" tvg-name="Moranguinho - Pluto TV" tvg-logo="http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="Infantil",Moranguinho - Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -1115,6 +1115,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988a50b
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63988a50be012600070f5db3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="ZooMooKids(Portuguese).br" tvg-name="ZOOMOO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82896_dark_360w_270h.png" group-title="Infantil",ZOOMOO
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/370
+#EXTINF:-1 tvg-id="AdultSwim(Portuguese).br" tvg-name="Adult Swim" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75608_dark_360w_270h.png" group-title="Humor",Adult Swim
+http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/541
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Always Funny Videos - Samsung TV" tvg-logo="" group-title="Humor",Always Funny Videos - Samsung TV
 https://cc-adhkhug69u4vo.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-name="Comédia - Pluto TV" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="Humor",Comédia - Pluto TV
@@ -1243,8 +1245,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099df8c
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Royalworld - Samsung TV" tvg-logo="" group-title="Reality e Vida Real",Royalworld - Samsung TV
 https://amogo-networx-royalworldnobrezaedinastias-1-br.vidaa.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="258d342c88b7e32980d6799b2d1f6cba" tvg-name="Tru TV" tvg-logo="" group-title="Reality e Vida Real",Tru TV
-http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/541
 #EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-name="Vida Real - Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="Reality e Vida Real",Vida Real - Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-name="Vida Real - Pluto TV [2]" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="Reality e Vida Real",Vida Real - Pluto TV [2]
