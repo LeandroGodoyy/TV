@@ -1,0 +1,1603 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="EPTV Campinas¹" tvg-logo="http://prinplay.com.br/server/EPTV%20Campinas.png" group-title="GERAL",EPTV Campinas¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1980
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="EPTV Campinas²" tvg-logo="http://prinplay.com.br/server/EPTV%20Campinas.png" group-title="GERAL",EPTV Campinas²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1926
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="EPTV Campinas³" tvg-logo="http://prinplay.com.br/server/EPTV%20Campinas.png" group-title="GERAL",EPTV Campinas³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1927
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP¹" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="GERAL",Globo SP¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1947
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP²" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="GERAL",Globo SP²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/62169
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SP³" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="GERAL",Globo SP³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1948
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News¹" tvg-logo="http://prinplay.com.br/server/Globo%20News%20HD.png" group-title="GERAL",Globo News¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1888
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News²" tvg-logo="http://prinplay.com.br/server/Globo%20News%20HD.png" group-title="GERAL",Globo News²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914185
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News³" tvg-logo="http://prinplay.com.br/server/Globo%20News%20HD.png" group-title="GERAL",Globo News³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2130
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP¹" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="GERAL",SBT SP¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1900
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP²" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="GERAL",SBT SP²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2212
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP³" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="GERAL",SBT SP³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2211
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP Interior" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="GERAL",SBT SP Interior
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2213
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ Cinema" tvg-logo="https://i.postimg.cc/qvP3F58d/Photoroom-20241031-142122.png" group-title="GERAL",SBT+ Cinema
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/964511
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ Criança" tvg-logo="https://i.postimg.cc/qvP3F58d/Photoroom-20241031-142122.png" group-title="GERAL",SBT+ Criança
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/964512
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ Humor" tvg-logo="https://i.postimg.cc/qvP3F58d/Photoroom-20241031-142122.png" group-title="GERAL",SBT+ Humor
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/964513
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ Informação" tvg-logo="https://i.postimg.cc/qvP3F58d/Photoroom-20241031-142122.png" group-title="GERAL",SBT+ Informação
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/964514
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ Novelas" tvg-logo="https://i.postimg.cc/qvP3F58d/Photoroom-20241031-142122.png" group-title="GERAL",SBT+ Novelas
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/964515
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ POP" tvg-logo="https://i.postimg.cc/qvP3F58d/Photoroom-20241031-142122.png" group-title="GERAL",SBT+ POP
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/964516
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ Séries" tvg-logo="https://i.postimg.cc/qvP3F58d/Photoroom-20241031-142122.png" group-title="GERAL",SBT+ Séries
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/964518
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ Silvio Santos" tvg-logo="https://i.postimg.cc/qvP3F58d/Photoroom-20241031-142122.png" group-title="GERAL",SBT+ Silvio Santos
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/964519
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT+ TVZYN" tvg-logo="https://i.postimg.cc/qvP3F58d/Photoroom-20241031-142122.png" group-title="GERAL",SBT+ TVZYN
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/964520
+#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="Band Campinas¹" tvg-logo="http://prinplay.com.br/server/Band.png" group-title="GERAL",Band Campinas¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/66554
+#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="Band Campinas²" tvg-logo="http://prinplay.com.br/server/Band.png" group-title="GERAL",Band Campinas²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/66553
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band SP¹" tvg-logo="http://prinplay.com.br/server/Band.png" group-title="GERAL",Band SP¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2055
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band SP²" tvg-logo="http://prinplay.com.br/server/Band%20HD.png" group-title="GERAL",Band SP²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1878
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band SP³" tvg-logo="http://prinplay.com.br/server/Band%20HD.png" group-title="GERAL",Band SP³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2056
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News¹" tvg-logo="http://prinplay.com.br/server/Band%20News%20HD.png" group-title="GERAL",Band News¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1811
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News²" tvg-logo="http://prinplay.com.br/server/Band%20News%20HD.png" group-title="GERAL",Band News²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915991
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News³" tvg-logo="http://prinplay.com.br/server/Band%20News%20HD.png" group-title="GERAL",Band News³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2058
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports¹" tvg-logo="http://prinplay.com.br/server/Band%20Sports.png" group-title="GERAL",Band Sports¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2059
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports²" tvg-logo="http://prinplay.com.br/server/Band%20Sports%20HD.png" group-title="GERAL",Band Sports²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1812
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports³" tvg-logo="http://prinplay.com.br/server/Band%20Sports%20HD.png" group-title="GERAL",Band Sports³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/13099
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E¹" tvg-logo="http://prinplay.com.br/server/A%26E%20HD.png" group-title="GERAL",A&E¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1806
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E²" tvg-logo="http://prinplay.com.br/server/A%26E%20HD.png" group-title="GERAL",A&E²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2046
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E³" tvg-logo="http://prinplay.com.br/server/A%26E.png" group-title="GERAL",A&E³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2045
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E*" tvg-logo="http://prinplay.com.br/server/A%26E.png" group-title="GERAL",A&E*
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1175
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E**" tvg-logo="http://prinplay.com.br/server/A%26E%20HD.png" group-title="GERAL",A&E**
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1307
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adult Swim¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/640px-Adult_Swim_2003_logo.svg.png" group-title="GERAL",Adult Swim¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/933259
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adult Swim²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/640px-Adult_Swim_2003_logo.svg.png" group-title="GERAL",Adult Swim²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/933257
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adult Swim³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/640px-Adult_Swim_2003_logo.svg.png" group-title="GERAL",Adult Swim³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/933258
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC¹" tvg-logo="http://prinplay.com.br/server/AMC.png" group-title="GERAL",AMC¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2047
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC²" tvg-logo="http://prinplay.com.br/server/AMC%20HD.png" group-title="GERAL",AMC²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1807
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC³" tvg-logo="http://prinplay.com.br/server/AMC%20HD.png" group-title="GERAL",AMC³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2048
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet¹" tvg-logo="http://prinplay.com.br/server/Animal%20Planet.png" group-title="GERAL",Animal Planet¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2049
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet²" tvg-logo="http://prinplay.com.br/server/Animal%20Planet.png" group-title="GERAL",Animal Planet²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1808
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet³" tvg-logo="http://prinplay.com.br/server/Animal%20Planet.png" group-title="GERAL",Animal Planet³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2050
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple TV+ 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Apple_TV_Plus_Logo.svg/320px-Apple_TV_Plus_Logo.svg.png" group-title="GERAL",Apple TV+ 1
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/904117
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple TV+ 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Apple_TV_Plus_Logo.svg/320px-Apple_TV_Plus_Logo.svg.png" group-title="GERAL",Apple TV+ 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/904118
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Apple TV+ 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Apple_TV_Plus_Logo.svg/320px-Apple_TV_Plus_Logo.svg.png" group-title="GERAL",Apple TV+ 3
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/904119
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte 1¹" tvg-logo="http://prinplay.com.br/server/Arte1.png" group-title="GERAL",Arte 1¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1809
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte 1²" tvg-logo="http://prinplay.com.br/server/Arte1.png" group-title="GERAL",Arte 1²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2052
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte 1³" tvg-logo="http://prinplay.com.br/server/Arte1.png" group-title="GERAL",Arte 1³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2051
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="http://prinplay.com.br/server/AXN.png" group-title="GERAL",AXN
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2053
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="http://prinplay.com.br/server/AXN%20HD.png" group-title="GERAL",AXN FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1810
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD LEG" tvg-logo="http://prinplay.com.br/server/AXN%20HD.png" group-title="GERAL",AXN FHD LEG
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/24778
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://prinplay.com.br/server/AXN%20HD.png" group-title="GERAL",AXN HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2054
+#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV" tvg-logo="http://prinplay.com.br/server/Baby%20TV.png" group-title="GERAL",Baby TV
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1120
+#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV BR" tvg-logo="http://prinplay.com.br/server/Baby%20TV.png" group-title="GERAL",Baby TV BR
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/45262
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Beyblade: Metal Fusion" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Z247cCZOggsLoD4vY4Bg6QsH4U.jpg" group-title="GERAL",Beyblade: Metal Fusion
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/60368
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS¹" tvg-logo="http://prinplay.com.br/server/Bis.png" group-title="GERAL",BIS¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1290
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS²" tvg-logo="http://prinplay.com.br/server/Bis.png" group-title="GERAL",BIS²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1879
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS³" tvg-logo="http://prinplay.com.br/server/Bis.png" group-title="GERAL",BIS³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2062
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BJJ Stars" tvg-logo="http://gamov.com.br/wp-content/uploads/2015/12/bjj-stars-gamov-300x184.png" group-title="GERAL",BJJ Stars
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/902623
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang¹" tvg-logo="http://prinplay.com.br/server/Boomerang%20HD.png" group-title="GERAL",Boomerang¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2065
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang²" tvg-logo="http://prinplay.com.br/server/Boomerang%20HD.png" group-title="GERAL",Boomerang²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1813
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang³" tvg-logo="http://prinplay.com.br/server/Boomerang%20HD.png" group-title="GERAL",Boomerang³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1330
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Box Kids TV" tvg-logo="https://i.postimg.cc/XJnkC3HQ/images-35.jpg" group-title="GERAL",Box Kids TV
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/83810
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil¹" tvg-logo="http://prinplay.com.br/server/Canal%20Brasil.png" group-title="GERAL",Canal Brasil¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1908
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil²" tvg-logo="http://prinplay.com.br/server/Canal%20Brasil.png" group-title="GERAL",Canal Brasil²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2067
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil³" tvg-logo="http://prinplay.com.br/server/Canal%20Brasil.png" group-title="GERAL",Canal Brasil³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1331
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi" tvg-logo="http://prinplay.com.br/server/Canal%20do%20Boi.png" group-title="GERAL",Canal do Boi
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/70104
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal GOAT¹" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="GERAL",Canal GOAT¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/910679
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal GOAT²" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="GERAL",Canal GOAT²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/910678
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal GOAT³" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="GERAL",Canal GOAT³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/919403
+#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="Canal Rural" tvg-logo="http://prinplay.com.br/server/Canal%20Rural.png" group-title="GERAL",Canal Rural
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1183
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network¹" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network%20HD.png" group-title="GERAL",Cartoon Network¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2072
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network²" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network%20HD.png" group-title="GERAL",Cartoon Network²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1815
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network³" tvg-logo="http://prinplay.com.br/server/Cartoon%20Network%20HD.png" group-title="GERAL",Cartoon Network³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1332
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoonito¹" tvg-logo="http://prinplay.com.br/server/Cartoonito.png" group-title="GERAL",Cartoonito¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901868
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoonito²" tvg-logo="http://prinplay.com.br/server/Cartoonito.png" group-title="GERAL",Cartoonito²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901866
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoonit³" tvg-logo="http://prinplay.com.br/server/Cartoonito.png" group-title="GERAL",Cartoonit³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901867
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CazeTV 01" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo-0.png" group-title="GERAL",CazeTV 01
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/899770
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CazeTV 02" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo-0.png" group-title="GERAL",CazeTV 02
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/899771
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CazeTV 03" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo-0.png" group-title="GERAL",CazeTV 03
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/944758
+#EXTINF:-1 tvg-id="chef.br" tvg-name="Chef TV¹" tvg-logo="http://prinplay.com.br/server/Chef%20TV.png" group-title="GERAL",Chef TV¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/24268
+#EXTINF:-1 tvg-id="chef.br" tvg-name="Chef TV²" tvg-logo="http://prinplay.com.br/server/Chef%20TV.png" group-title="GERAL",Chef TV²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/24267
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Sky 1" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="GERAL",Cine Sky 1
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/40623
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Sky 2" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="GERAL",Cine Sky 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/40624
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Sky 3" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="GERAL",Cine Sky 3
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/40625
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Sky 4" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="GERAL",Cine Sky 4
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/40626
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Sky 5" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="GERAL",Cine Sky 5
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/40627
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Sky 6" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="GERAL",Cine Sky 6
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/40628
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Sky 7" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="GERAL",Cine Sky 7
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/40629
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Sky 8" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="GERAL",Cine Sky 8
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/40630
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Sky 9" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="GERAL",Cine Sky 9
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/896436
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Sky 10" tvg-logo="http://prinplay.com.br/server/Cine%20Sky.png" group-title="GERAL",Cine Sky 10
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/896437
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="Cinecanal¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="GERAL",Cinecanal¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/902337
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="Cinecanal²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="GERAL",Cinecanal²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/902335
+#EXTINF:-1 tvg-id="star.life.br" tvg-name="Cinecanal³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="GERAL",Cinecanal³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/902336
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax¹" tvg-logo="http://prinplay.com.br/server/Cinemax.png" group-title="GERAL",Cinemax¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2073
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax²" tvg-logo="http://prinplay.com.br/server/Cinemax.png" group-title="GERAL",Cinemax²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1816
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax³" tvg-logo="http://prinplay.com.br/server/Cinemax.png" group-title="GERAL",Cinemax³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2074
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC Times Brasil" tvg-logo="https://prinplay.com.br/server/CNBC.png" group-title="GERAL",CNBC Times Brasil
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/965112
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN Brasil¹" tvg-logo="http://prinplay.com.br/server/CNN%20Brasil.png" group-title="GERAL",CNN Brasil¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/22226
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN Brasil²" tvg-logo="http://prinplay.com.br/server/CNN%20Brasil.png" group-title="GERAL",CNN Brasil²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/22224
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN Brasil³" tvg-logo="http://prinplay.com.br/server/CNN%20Brasil.png" group-title="GERAL",CNN Brasil³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915993
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN Espanhol" tvg-logo="http://prinplay.com.br/server/CNN.png" group-title="GERAL",CNN Espanhol
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/62369
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN Internacional" tvg-logo="http://prinplay.com.br/server/CNN.png" group-title="GERAL",CNN Internacional
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/62368
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Money" tvg-logo="http://prinplay.com.br/server/CNN.png" group-title="GERAL",CNN Money
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/963936
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate¹" tvg-logo="http://prinplay.com.br/server/Combate.png" group-title="GERAL",Combate¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1880
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate²" tvg-logo="http://prinplay.com.br/server/Combate.png" group-title="GERAL",Combate²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/13095
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate³" tvg-logo="http://prinplay.com.br/server/Combate.png" group-title="GERAL",Combate³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2076
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central¹" tvg-logo="http://prinplay.com.br/server/Comedy%20Central.png" group-title="GERAL",Comedy Central¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2077
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central²" tvg-logo="http://prinplay.com.br/server/Comedy%20Central.png" group-title="GERAL",Comedy Central²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1817
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central³" tvg-logo="http://prinplay.com.br/server/Comedy%20Central.png" group-title="GERAL",Comedy Central³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2078
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta!¹" tvg-logo="http://prinplay.com.br/server/Curta%21.png" group-title="GERAL",Curta!¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2079
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta!²" tvg-logo="http://prinplay.com.br/server/Curta%21.png" group-title="GERAL",Curta!²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1818
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta!³" tvg-logo="http://prinplay.com.br/server/Curta%21.png" group-title="GERAL",Curta!³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2080
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1" tvg-logo="http://prinplay.com.br/server/DAZN.png" group-title="GERAL",DAZN 1
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2303
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2" tvg-logo="http://prinplay.com.br/server/DAZN.png" group-title="GERAL",DAZN 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2304
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 3" tvg-logo="http://prinplay.com.br/server/DAZN.png" group-title="GERAL",DAZN 3
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/20617
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel¹" tvg-logo="http://prinplay.com.br/server/Discovery%20Channel%20HD.png" group-title="GERAL",Discovery Channel¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1328
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel²" tvg-logo="http://prinplay.com.br/server/Discovery%20Channel%20HD.png" group-title="GERAL",Discovery Channel²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1881
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel³" tvg-logo="http://prinplay.com.br/server/Discovery%20Channel%20HD.png" group-title="GERAL",Discovery Channel³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2082
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery Home&Health¹" tvg-logo="http://prinplay.com.br/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="GERAL",Discovery Home&Health¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2085
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery Home&Health²" tvg-logo="http://prinplay.com.br/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="GERAL",Discovery Home&Health²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1820
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery Home&Health³" tvg-logo="http://prinplay.com.br/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="GERAL",Discovery Home&Health³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2086
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids¹" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids.png" group-title="GERAL",Discovery Kids¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2087
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids²" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids%20HD.png" group-title="GERAL",Discovery Kids²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1821
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids³" tvg-logo="http://prinplay.com.br/server/Discovery%20Kids%20HD.png" group-title="GERAL",Discovery Kids³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2088
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="Discovery Science¹" tvg-logo="http://prinplay.com.br/server/Discovery%20Science.png" group-title="GERAL",Discovery Science¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2089
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="Discovery Science²" tvg-logo="http://prinplay.com.br/server/Discovery%20Science%20HD.png" group-title="GERAL",Discovery Science²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1335
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="Discovery Science³" tvg-logo="http://prinplay.com.br/server/Discovery%20Science%20HD.png" group-title="GERAL",Discovery Science³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1822
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater¹" tvg-logo="http://prinplay.com.br/server/Discovery%20Theater%20HD.png" group-title="GERAL",Discovery Theater¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1286
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater²" tvg-logo="http://prinplay.com.br/server/Discovery%20Theater%20HD.png" group-title="GERAL",Discovery Theater²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1823
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater³" tvg-logo="http://prinplay.com.br/server/Discovery%20Theater%20HD.png" group-title="GERAL",Discovery Theater³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2091
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo¹" tvg-logo="http://prinplay.com.br/server/Discovery%20Turbo%20HD.png" group-title="GERAL",Discovery Turbo¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1292
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo²" tvg-logo="http://prinplay.com.br/server/Discovery%20Turbo%20HD.png" group-title="GERAL",Discovery Turbo²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1824
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo³" tvg-logo="http://prinplay.com.br/server/Discovery%20Turbo%20HD.png" group-title="GERAL",Discovery Turbo³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2093
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World¹" tvg-logo="http://prinplay.com.br/server/Discovery%20World.png" group-title="GERAL",Discovery World¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2094
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World²" tvg-logo="http://prinplay.com.br/server/Discovery%20World%20HD.png" group-title="GERAL",Discovery World²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1825
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World³" tvg-logo="http://prinplay.com.br/server/Discovery%20World%20HD.png" group-title="GERAL",Discovery World³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1309
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel¹" tvg-logo="http://prinplay.com.br/server/Disney%20Channel%20HD.png" group-title="GERAL",Disney Channel¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1336
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel²" tvg-logo="http://prinplay.com.br/server/Disney%20Channel%20HD.png" group-title="GERAL",Disney Channel²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1882
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel³" tvg-logo="http://prinplay.com.br/server/Disney%20Channel%20HD.png" group-title="GERAL",Disney Channel³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2096
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney+ 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="GERAL",Disney+ 1
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/902434
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney+ 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="GERAL",Disney+ 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/902436
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney+ 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="GERAL",Disney+ 3
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914838
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney+ 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="GERAL",Disney+ 4
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/66580
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney+ 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="GERAL",Disney+ 5
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/66581
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOGTV" tvg-logo="http://prinplay.com.br/server/Dog%20TV.png" group-title="GERAL",DOGTV
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/66622
+#EXTINF:-1 tvg-id="e.br" tvg-name="E!¹" tvg-logo="http://prinplay.com.br/server/E%21%20Entertainment%20HD.png" group-title="GERAL",E!¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1338
+#EXTINF:-1 tvg-id="e.br" tvg-name="E!²" tvg-logo="http://prinplay.com.br/server/E%21%20Entertainment%20HD.png" group-title="GERAL",E!²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1826
+#EXTINF:-1 tvg-id="e.br" tvg-name="E!³" tvg-logo="http://prinplay.com.br/server/E%21%20Entertainment%20HD.png" group-title="GERAL",E!³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2100
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN" tvg-logo="http://prinplay.com.br/server/ESPN%20Brasil.png" group-title="GERAL",ESPN
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2104
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 2" tvg-logo="http://prinplay.com.br/server/ESPN%202.png" group-title="GERAL",ESPN 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/13090
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN 3" tvg-logo="http://prinplay.com.br/server/ESPN%20Brasil%20HD.png" group-title="GERAL",ESPN 3
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/13084
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4" tvg-logo="http://prinplay.com.br/server/ESPN%20HD.png" group-title="GERAL",ESPN 4
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/13078
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5" tvg-logo="http://prinplay.com.br/server/ESPN%20HD.png" group-title="GERAL",ESPN 5
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/13081
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6" tvg-logo="http://prinplay.com.br/server/ESPN%20HD.png" group-title="GERAL",ESPN 6
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/13093
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="Film & Arts" tvg-logo="http://prinplay.com.br/server/Film%26Arts.png" group-title="GERAL",Film & Arts
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2280
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV" tvg-logo="http://prinplay.com.br/server/Fish%20TV%20HD.png" group-title="GERAL",Fish TV
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1829
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fla TV" tvg-logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png" group-title="GERAL",Fla TV
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/27021
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flograppling" tvg-logo="https://i.postimg.cc/dt1kTyMr/Photoroom-20240817-193425.png" group-title="GERAL",Flograppling
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/953686
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="Food Network*" tvg-logo="http://prinplay.com.br/server/Food%20Network%20HD.png" group-title="GERAL",Food Network*
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2112
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="Food Network¹" tvg-logo="http://prinplay.com.br/server/Food%20Network.png" group-title="GERAL",Food Network¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2111
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="Food Network²" tvg-logo="http://prinplay.com.br/server/Food%20Network.png" group-title="GERAL",Food Network²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1132
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="Food Network³" tvg-logo="http://prinplay.com.br/server/Food%20Network%20HD.png" group-title="GERAL",Food Network³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1830
+#EXTINF:-1 tvg-id="FRANCE 24 FR" tvg-name="France 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYmO7DHPQlM0UELYX0CbdiAC-BH-F9dvucw&usqp=CAU" group-title="GERAL",France 24
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914184
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Furacão TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Athletico_Paranaense_2019.png" group-title="GERAL",Furacão TV
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/902267
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura¹" tvg-logo="http://prinplay.com.br/server/Futura.png" group-title="GERAL",Futura¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2125
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura²" tvg-logo="http://prinplay.com.br/server/Futura.png" group-title="GERAL",Futura²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1834
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura³" tvg-logo="http://prinplay.com.br/server/Futura.png" group-title="GERAL",Futura³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2126
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX¹" tvg-logo="http://prinplay.com.br/server/FX.png" group-title="GERAL",FX¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2127
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX²" tvg-logo="http://prinplay.com.br/server/FX%20HD.png" group-title="GERAL",FX²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1835
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX³" tvg-logo="http://prinplay.com.br/server/FX%20HD.png" group-title="GERAL",FX³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2128
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX [LEG]" tvg-logo="http://prinplay.com.br/server/FX%20HD.png" group-title="GERAL",FX [LEG]
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/24780
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob¹" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="GERAL",Gloob¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1889
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob²" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="GERAL",Gloob²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2132
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob³" tvg-logo="http://prinplay.com.br/server/Gloob.png" group-title="GERAL",Gloob³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1342
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho¹" tvg-logo="http://prinplay.com.br/server/Gloobinho.png" group-title="GERAL",Gloobinho¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2134
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho²" tvg-logo="http://prinplay.com.br/server/Gloobinho.png" group-title="GERAL",Gloobinho²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1836
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho³" tvg-logo="http://prinplay.com.br/server/Gloobinho.png" group-title="GERAL",Gloobinho³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2133
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT¹" tvg-logo="http://prinplay.com.br/server/GNT%20HD.png" group-title="GERAL",GNT¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1296
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT²" tvg-logo="http://prinplay.com.br/server/GNT%20HD.png" group-title="GERAL",GNT²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1837
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT³" tvg-logo="http://prinplay.com.br/server/GNT%20HD.png" group-title="GERAL",GNT³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2136
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO¹" tvg-logo="http://prinplay.com.br/server/HBO.png" group-title="GERAL",HBO¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2139
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO²" tvg-logo="http://prinplay.com.br/server/HBO.png" group-title="GERAL",HBO²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1891
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO³" tvg-logo="http://prinplay.com.br/server/HBO.png" group-title="GERAL",HBO³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2144
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO [LEG]¹" tvg-logo="http://prinplay.com.br/server/HBO.png" group-title="GERAL",HBO [LEG]¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/24781
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO [LEG]²" tvg-logo="http://prinplay.com.br/server/HBO.png" group-title="GERAL",HBO [LEG]²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901855
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2" tvg-logo="http://prinplay.com.br/server/HBO%202%20HD.png" group-title="GERAL",HBO 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1890
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2²" tvg-logo="http://prinplay.com.br/server/HBO%202%20HD.png" group-title="GERAL",HBO 2²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2141
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family¹" tvg-logo="http://prinplay.com.br/server/HBO%20Family%20HD.png" group-title="GERAL",HBO Family¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1839
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family²" tvg-logo="http://prinplay.com.br/server/HBO%20Family%20HD.png" group-title="GERAL",HBO Family²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2143
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family³" tvg-logo="http://prinplay.com.br/server/HBO%20Family.png" group-title="GERAL",HBO Family³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2142
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi¹" tvg-logo="http://prinplay.com.br/server/HBO%20Mundi.png" group-title="GERAL",HBO Mundi¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1845
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi²" tvg-logo="http://prinplay.com.br/server/HBO%20Mundi.png" group-title="GERAL",HBO Mundi²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2158
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi³" tvg-logo="http://prinplay.com.br/server/HBO%20Mundi.png" group-title="GERAL",HBO Mundi³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2157
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi [LEG]¹" tvg-logo="http://prinplay.com.br/server/HBO%20Mundi.png" group-title="GERAL",HBO Mundi [LEG]¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2344
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi [LEG]²" tvg-logo="http://prinplay.com.br/server/HBO%20Mundi.png" group-title="GERAL",HBO Mundi [LEG]²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901856
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus¹" tvg-logo="http://prinplay.com.br/server/HBO%20Plus.png" group-title="GERAL",HBO Plus¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1840
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus²" tvg-logo="http://prinplay.com.br/server/HBO%20Plus.png" group-title="GERAL",HBO Plus²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2146
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus³" tvg-logo="http://prinplay.com.br/server/HBO%20Plus.png" group-title="GERAL",HBO Plus³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2145
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus [LEG]" tvg-logo="http://prinplay.com.br/server/HBO%20Plus.png" group-title="GERAL",HBO Plus [LEG]
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901865
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP¹" tvg-logo="http://prinplay.com.br/server/HBO%20Pop.png" group-title="GERAL",HBO POP¹
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2161
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP²" tvg-logo="http://prinplay.com.br/server/HBO%20Pop.png" group-title="GERAL",HBO POP²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1847
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP³" tvg-logo="http://prinplay.com.br/server/HBO%20Pop.png" group-title="GERAL",HBO POP³
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2162
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP [LEG]" tvg-logo="http://prinplay.com.br/server/HBO%20Pop.png" group-title="GERAL",HBO POP [LEG]
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2360
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature" tvg-logo="http://prinplay.com.br/server/HBO%20Signature.png" group-title="GERAL",HBO Signature
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2147
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature FHD" tvg-logo="http://prinplay.com.br/server/HBO%20Signature%20HD.png" group-title="GERAL",HBO Signature FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1841
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature HD" tvg-logo="http://prinplay.com.br/server/HBO%20Signature%20HD.png" group-title="GERAL",HBO Signature HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2148
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature LEG" tvg-logo="http://prinplay.com.br/server/HBO%20Signature.png" group-title="GERAL",HBO Signature LEG
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901857
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme" tvg-logo="http://prinplay.com.br/server/HBO%20Xtreme.png" group-title="GERAL",HBO Xtreme
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2159
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://prinplay.com.br/server/HBO%20Xtreme.png" group-title="GERAL",HBO Xtreme FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1846
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="http://prinplay.com.br/server/HBO%20Xtreme.png" group-title="GERAL",HBO Xtreme HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2160
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme LEG" tvg-logo="http://prinplay.com.br/server/HBO%20Xtreme.png" group-title="GERAL",HBO Xtreme LEG
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901858
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="http://prinplay.com.br/server/HGTV.png" group-title="GERAL",HGTV
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2083
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV Alternativo" tvg-logo="http://prinplay.com.br/server/HGTV.png" group-title="GERAL",HGTV Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/46732
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV Alternativo HD" tvg-logo="http://prinplay.com.br/server/HGTV.png" group-title="GERAL",HGTV Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/46731
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="http://prinplay.com.br/server/HGTV.png" group-title="GERAL",HGTV FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1819
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="http://prinplay.com.br/server/HGTV.png" group-title="GERAL",HGTV HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2084
+#EXTINF:-1 tvg-id="history.br" tvg-name="History" tvg-logo="http://prinplay.com.br/server/The%20History%20Channel.png" group-title="GERAL",History
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2149
+#EXTINF:-1 tvg-id="history.br" tvg-name="History Alternativo" tvg-logo="http://prinplay.com.br/server/The%20History%20Channel.png" group-title="GERAL",History Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1145
+#EXTINF:-1 tvg-id="history.br" tvg-name="History Alternativo HD" tvg-logo="http://prinplay.com.br/server/The%20History%20Channel%20HD.png" group-title="GERAL",History Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1272
+#EXTINF:-1 tvg-id="history.br" tvg-name="History FHD" tvg-logo="http://prinplay.com.br/server/The%20History%20Channel%20HD.png" group-title="GERAL",History FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1842
+#EXTINF:-1 tvg-id="history.br" tvg-name="History HD" tvg-logo="http://prinplay.com.br/server/The%20History%20Channel%20HD.png" group-title="GERAL",History HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2150
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2" tvg-logo="http://prinplay.com.br/server/H2.png" group-title="GERAL",H2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2137
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 Alternativo" tvg-logo="http://prinplay.com.br/server/H2.png" group-title="GERAL",H2 Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1144
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 Alternativo HD" tvg-logo="http://prinplay.com.br/server/H2%20HD.png" group-title="GERAL",H2 Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1316
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 FHD" tvg-logo="http://prinplay.com.br/server/H2%20HD.png" group-title="GERAL",H2 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1838
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 HD" tvg-logo="http://prinplay.com.br/server/H2%20HD.png" group-title="GERAL",H2 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2138
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery" tvg-logo="http://prinplay.com.br/server/Investigation%20Discovery.png" group-title="GERAL",Investigation Discovery
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2151
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery Alternativo" tvg-logo="http://prinplay.com.br/server/Investigation%20Discovery.png" group-title="GERAL",Investigation Discovery Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1200
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery Alternativo HD" tvg-logo="http://prinplay.com.br/server/Investigation%20Discovery%20HD.png" group-title="GERAL",Investigation Discovery Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1320
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery FHD" tvg-logo="http://prinplay.com.br/server/Investigation%20Discovery%20HD.png" group-title="GERAL",Investigation Discovery FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1843
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery HD" tvg-logo="http://prinplay.com.br/server/Investigation%20Discovery%20HD.png" group-title="GERAL",Investigation Discovery HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2152
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime" tvg-logo="http://prinplay.com.br/server/Lifetime.png" group-title="GERAL",Lifetime
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2153
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime Alternativo" tvg-logo="http://prinplay.com.br/server/Lifetime.png" group-title="GERAL",Lifetime Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1147
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime Alternativo HD" tvg-logo="http://prinplay.com.br/server/Lifetime.png" group-title="GERAL",Lifetime Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1263
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime FHD" tvg-logo="http://prinplay.com.br/server/Lifetime.png" group-title="GERAL",Lifetime FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1844
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="http://prinplay.com.br/server/Lifetime.png" group-title="GERAL",Lifetime HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2154
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LNF 1" tvg-logo="https://lnfoficial.com.br/media/2016/06/logo_LNF_1.png" group-title="GERAL",LNF 1
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/906099
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LNF 2" tvg-logo="https://lnfoficial.com.br/media/2016/06/logo_LNF_1.png" group-title="GERAL",LNF 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/906100
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LNF 3" tvg-logo="https://lnfoficial.com.br/media/2016/06/logo_LNF_1.png" group-title="GERAL",LNF 3
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/906101
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LNF 4" tvg-logo="https://lnfoficial.com.br/media/2016/06/logo_LNF_1.png" group-title="GERAL",LNF 4
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/906102
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Loading TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Loading_TV.svg/1200px-Loading_TV.svg.png" group-title="GERAL",Loading TV
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/42754
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max 1" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="GERAL",Max 1
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/71943
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max 1 Alternativo" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="GERAL",Max 1 Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/898915
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max 1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="GERAL",Max 1 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915108
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max 2" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="GERAL",Max 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/64038
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max 2 Alternativo" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="GERAL",Max 2 Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/898916
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="GERAL",Max 2 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915109
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max 3" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="GERAL",Max 3
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/64039
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max 3 Alternativo" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="GERAL",Max 3 Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/898917
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max 3 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="GERAL",Max 3 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915110
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max 4" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="GERAL",Max 4
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/64040
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max 4 Alternativo" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="GERAL",Max 4 Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/898918
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max 4 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="GERAL",Max 4 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915111
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max 5" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="GERAL",Max 5
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/64041
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max 5 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="GERAL",Max 5 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915112
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max 6 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/max-logo-2.png" group-title="GERAL",Max 6 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915113
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix" tvg-logo="http://prinplay.com.br/server/Megapix.png" group-title="GERAL",Megapix
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2163
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MegaPix Alternativo" tvg-logo="http://prinplay.com.br/server/Megapix.png" group-title="GERAL",MegaPix Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1205
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MegaPix Alternativo HD" tvg-logo="http://prinplay.com.br/server/Megapix%20HD.png" group-title="GERAL",MegaPix Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1321
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix FHD" tvg-logo="http://prinplay.com.br/server/Megapix%20HD.png" group-title="GERAL",Megapix FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1848
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="http://prinplay.com.br/server/Megapix%20HD.png" group-title="GERAL",Megapix HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2164
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix LEG" tvg-logo="http://prinplay.com.br/server/Megapix.png" group-title="GERAL",Megapix LEG
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2362
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Modo Viagem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/640px-Logotipo_do_Modo_Viagem.svg.png" group-title="GERAL",Modo Viagem
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/928401
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Modo Viagem FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/640px-Logotipo_do_Modo_Viagem.svg.png" group-title="GERAL",Modo Viagem FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/928399
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Modo Viagem HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/640px-Logotipo_do_Modo_Viagem.svg.png" group-title="GERAL",Modo Viagem HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/928400
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="http://prinplay.com.br/server/MTV.png" group-title="GERAL",MTV
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2165
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV Alternativo" tvg-logo="http://prinplay.com.br/server/MTV.png" group-title="GERAL",MTV Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1150
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="http://prinplay.com.br/server/MTV%20HD.png" group-title="GERAL",MTV FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1849
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://prinplay.com.br/server/MTV%20HD.png" group-title="GERAL",MTV HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2166
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Live" tvg-logo="http://prinplay.com.br/server/MTV%20Live.png" group-title="GERAL",MTV Live
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2269
+#EXTINF:-1 tvg-id="mtv.live.br" tvg-name="MTV Live FHD" tvg-logo="http://prinplay.com.br/server/MTV%20Live%20HD.png" group-title="GERAL",MTV Live FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1850
+#EXTINF:-1 tvg-id="mtv.brasil.br" tvg-name="MTV Live HD" tvg-logo="http://prinplay.com.br/server/MTV%20Live%20HD.png" group-title="GERAL",MTV Live HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2270
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow" tvg-logo="http://prinplay.com.br/server/Multishow.png" group-title="GERAL",Multishow
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2167
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow Alternativo" tvg-logo="http://prinplay.com.br/server/Multishow.png" group-title="GERAL",Multishow Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1206
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow Alternativo HD" tvg-logo="http://prinplay.com.br/server/Multishow%20HD.png" group-title="GERAL",Multishow Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1297
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow FHD" tvg-logo="http://prinplay.com.br/server/Multishow%20HD.png" group-title="GERAL",Multishow FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1851
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="http://prinplay.com.br/server/Multishow%20HD.png" group-title="GERAL",Multishow HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2168
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="Music Box Brasil" tvg-logo="http://prinplay.com.br/server/Music%20Box%20Brazil.png" group-title="GERAL",Music Box Brasil
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2169
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="Music Box Brasil Alternativo" tvg-logo="http://prinplay.com.br/server/Music%20Box%20Brazil.png" group-title="GERAL",Music Box Brasil Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1151
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="Music Box Brasil FHD" tvg-logo="http://prinplay.com.br/server/Music%20Box%20Brazil%20HD.png" group-title="GERAL",Music Box Brasil FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1852
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="Music Box Brasil HD" tvg-logo="http://prinplay.com.br/server/Music%20Box%20Brazil%20HD.png" group-title="GERAL",Music Box Brasil HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2170
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="Nat Geo" tvg-logo="http://prinplay.com.br/server/National%20Geographic.png" group-title="GERAL",Nat Geo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2171
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="Nat Geo Alternativo" tvg-logo="http://prinplay.com.br/server/National%20Geographic.png" group-title="GERAL",Nat Geo Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1207
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="Nat Geo Alternativo HD" tvg-logo="http://prinplay.com.br/server/Nat%20Geo%20Wild%20HD.png" group-title="GERAL",Nat Geo Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1298
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="Nat Geo FHD" tvg-logo="http://prinplay.com.br/server/National%20Geographic%20Channel%20HD.png" group-title="GERAL",Nat Geo FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1853
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="Nat Geo HD" tvg-logo="http://prinplay.com.br/server/National%20Geographic%20Channel%20HD.png" group-title="GERAL",Nat Geo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2172
+#EXTINF:-1 tvg-id="nhk.br" tvg-name="NHK" tvg-logo="http://prinplay.com.br/server/NHK.png" group-title="GERAL",NHK
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1210
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr" tvg-logo="http://prinplay.com.br/server/Nick%20Jr..png" group-title="GERAL",Nick Jr
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2178
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr Alternativo" tvg-logo="http://prinplay.com.br/server/Nick%20Jr..png" group-title="GERAL",Nick Jr Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1211
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick JR Alternativo HD" tvg-logo="http://prinplay.com.br/server/Nick%20Jr.%20HD.png" group-title="GERAL",Nick JR Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1346
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr FHD" tvg-logo="http://prinplay.com.br/server/Nick%20Jr.%20HD.png" group-title="GERAL",Nick Jr FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1856
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr HD" tvg-logo="http://prinplay.com.br/server/Nick%20Jr.%20HD.png" group-title="GERAL",Nick Jr HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2179
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="GERAL",Nickelodeon
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2180
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon Alternativo" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="GERAL",Nickelodeon Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1153
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon Alternativo HD" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="GERAL",Nickelodeon Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1345
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon FHD" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="GERAL",Nickelodeon FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1857
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon HD" tvg-logo="http://prinplay.com.br/server/Nickelodeon.png" group-title="GERAL",Nickelodeon HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2181
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 1" tvg-logo="https://static.wixstatic.com/media/e7bfbc_4f3f336bcf0e42e482b3501554ed9513~mv2.png/v1/fill/w_149,h_241,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png" group-title="GERAL",Nosso Futebol 1
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/903012
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 1 HD" tvg-logo="https://static.wixstatic.com/media/e7bfbc_4f3f336bcf0e42e482b3501554ed9513~mv2.png/v1/fill/w_149,h_241,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png" group-title="GERAL",Nosso Futebol 1 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/903009
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 2" tvg-logo="https://static.wixstatic.com/media/e7bfbc_4f3f336bcf0e42e482b3501554ed9513~mv2.png/v1/fill/w_149,h_241,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png" group-title="GERAL",Nosso Futebol 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/903013
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 2 FHD" tvg-logo="https://static.wixstatic.com/media/e7bfbc_4f3f336bcf0e42e482b3501554ed9513~mv2.png/v1/fill/w_149,h_241,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png" group-title="GERAL",Nosso Futebol 2 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/903011
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 2 HD" tvg-logo="https://static.wixstatic.com/media/e7bfbc_4f3f336bcf0e42e482b3501554ed9513~mv2.png/v1/fill/w_149,h_241,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png" group-title="GERAL",Nosso Futebol 2 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/903010
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 3" tvg-logo="https://static.wixstatic.com/media/e7bfbc_4f3f336bcf0e42e482b3501554ed9513~mv2.png/v1/fill/w_149,h_241,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png" group-title="GERAL",Nosso Futebol 3
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/903020
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 3 FHD" tvg-logo="https://static.wixstatic.com/media/e7bfbc_4f3f336bcf0e42e482b3501554ed9513~mv2.png/v1/fill/w_149,h_241,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png" group-title="GERAL",Nosso Futebol 3 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/903018
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 3 HD" tvg-logo="https://static.wixstatic.com/media/e7bfbc_4f3f336bcf0e42e482b3501554ed9513~mv2.png/v1/fill/w_149,h_241,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png" group-title="GERAL",Nosso Futebol 3 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/903019
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 4" tvg-logo="https://static.wixstatic.com/media/e7bfbc_4f3f336bcf0e42e482b3501554ed9513~mv2.png/v1/fill/w_149,h_241,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png" group-title="GERAL",Nosso Futebol 4
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/903023
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 4 FHD" tvg-logo="https://static.wixstatic.com/media/e7bfbc_4f3f336bcf0e42e482b3501554ed9513~mv2.png/v1/fill/w_149,h_241,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png" group-title="GERAL",Nosso Futebol 4 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/903021
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosso Futebol 4 HD" tvg-logo="https://static.wixstatic.com/media/e7bfbc_4f3f336bcf0e42e482b3501554ed9513~mv2.png/v1/fill/w_149,h_241,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png" group-title="GERAL",Nosso Futebol 4 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/903022
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nsports 1" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/Logo-Preto.png" group-title="GERAL",Nsports 1
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/75611
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nsports 2" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/Logo-Preto.png" group-title="GERAL",Nsports 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/75612
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nsports 3" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/Logo-Preto.png" group-title="GERAL",Nsports 3
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/75613
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF" tvg-logo="http://prinplay.com.br/server/Canal%20Off.png" group-title="GERAL",OFF
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2182
+#EXTINF:-1 tvg-id="off.br" tvg-name="Off Alternativo" tvg-logo="http://prinplay.com.br/server/Canal%20Off.png" group-title="GERAL",Off Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1154
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF Alternativo HD" tvg-logo="http://prinplay.com.br/server/Canal%20Off.png" group-title="GERAL",OFF Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1322
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD" tvg-logo="http://prinplay.com.br/server/Canal%20Off.png" group-title="GERAL",OFF FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1858
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://prinplay.com.br/server/Canal%20Off.png" group-title="GERAL",OFF HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2183
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Olympia 2024" tvg-logo="https://i.postimg.cc/kXV1xxsJ/Photoroom-20241010-162702.png" group-title="GERAL",Olympia 2024
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/75614
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OneFootball" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ciQWRE41f0AkuaLtwdUbrTl6WhdehX4sPg&usqp=CAU" group-title="GERAL",OneFootball
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901864
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OneFootball FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ciQWRE41f0AkuaLtwdUbrTl6WhdehX4sPg&usqp=CAU" group-title="GERAL",OneFootball FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/897943
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OneFootball HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ciQWRE41f0AkuaLtwdUbrTl6WhdehX4sPg&usqp=CAU" group-title="GERAL",OneFootball HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901863
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel" tvg-logo="http://prinplay.com.br/server/Paramount%20Channel.png" group-title="GERAL",Paramount Channel
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2184
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel FHD" tvg-logo="http://prinplay.com.br/server/Paramount%20Channel.png" group-title="GERAL",Paramount Channel FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1859
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="http://prinplay.com.br/server/Paramount%20Channel.png" group-title="GERAL",Paramount Channel HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2185
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network" tvg-logo="http://prinplay.com.br/server/Paramount%20Network.png" group-title="GERAL",Paramount Network
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901883
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network FHD" tvg-logo="http://prinplay.com.br/server/Paramount%20Network.png" group-title="GERAL",Paramount Network FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901881
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network HD" tvg-logo="http://prinplay.com.br/server/Paramount%20Network.png" group-title="GERAL",Paramount Network HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901882
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="GERAL",Paramount+ 1
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/898822
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="GERAL",Paramount+ 1 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901876
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="GERAL",Paramount+ 1 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/898826
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="GERAL",Paramount+ 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/898823
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="GERAL",Paramount+ 2 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901877
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="GERAL",Paramount+ 2 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/898827
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="GERAL",Paramount+ 3
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/898824
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 3 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="GERAL",Paramount+ 3 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901878
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="GERAL",Paramount+ 3 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/898828
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 4" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="GERAL",Paramount+ 4
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/898825
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 4 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="GERAL",Paramount+ 4 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901880
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount+ 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="GERAL",Paramount+ 4 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901879
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polishop TV" tvg-logo="http://prinplay.com.br/server/Polishop.png" group-title="GERAL",Polishop TV
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2294
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2" tvg-logo="http://prinplay.com.br/server/Premiere%202.png" group-title="GERAL",Premiere 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/904121
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 Alternativo" tvg-logo="http://prinplay.com.br/server/Premiere%202.png" group-title="GERAL",Premiere 2 Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1157
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 Alternativo HD" tvg-logo="http://prinplay.com.br/server/Premiere%202.png" group-title="GERAL",Premiere 2 Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1273
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://prinplay.com.br/server/Premiere%202.png" group-title="GERAL",Premiere 2 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1892
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 HD" tvg-logo="http://prinplay.com.br/server/Premiere%202.png" group-title="GERAL",Premiere 2 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2187
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3" tvg-logo="http://prinplay.com.br/server/Premiere%203.png" group-title="GERAL",Premiere 3
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2188
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 Alternativo" tvg-logo="http://prinplay.com.br/server/Premiere%203.png" group-title="GERAL",Premiere 3 Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1158
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 Alternativo HD" tvg-logo="http://prinplay.com.br/server/Premiere%203.png" group-title="GERAL",Premiere 3 Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1274
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 FHD" tvg-logo="http://prinplay.com.br/server/Premiere%203.png" group-title="GERAL",Premiere 3 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1893
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 HD" tvg-logo="http://prinplay.com.br/server/Premiere%203.png" group-title="GERAL",Premiere 3 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2189
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4" tvg-logo="http://prinplay.com.br/server/Premiere%204.png" group-title="GERAL",Premiere 4
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2190
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 Alternativo" tvg-logo="http://prinplay.com.br/server/Premiere%204.png" group-title="GERAL",Premiere 4 Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1214
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 Alternativo HD" tvg-logo="http://prinplay.com.br/server/Premiere%204.png" group-title="GERAL",Premiere 4 Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1275
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 FHD" tvg-logo="http://prinplay.com.br/server/Premiere%204.png" group-title="GERAL",Premiere 4 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1894
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 HD" tvg-logo="http://prinplay.com.br/server/Premiere%204.png" group-title="GERAL",Premiere 4 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2191
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5" tvg-logo="http://prinplay.com.br/server/Premiere%205.png" group-title="GERAL",Premiere 5
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2192
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5 Alternativo" tvg-logo="http://prinplay.com.br/server/Premiere%205.png" group-title="GERAL",Premiere 5 Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1159
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5 Alternativo HD" tvg-logo="http://prinplay.com.br/server/Premiere%205.png" group-title="GERAL",Premiere 5 Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1276
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5 FHD" tvg-logo="http://prinplay.com.br/server/Premiere%205.png" group-title="GERAL",Premiere 5 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1895
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5 HD" tvg-logo="http://prinplay.com.br/server/Premiere%205.png" group-title="GERAL",Premiere 5 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2193
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6" tvg-logo="http://prinplay.com.br/server/Premiere%206.png" group-title="GERAL",Premiere 6
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2194
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 Alternativo" tvg-logo="http://prinplay.com.br/server/Premiere%206.png" group-title="GERAL",Premiere 6 Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1160
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 Alternativo HD" tvg-logo="http://prinplay.com.br/server/Premiere%206.png" group-title="GERAL",Premiere 6 Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/7945
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 FHD" tvg-logo="http://prinplay.com.br/server/Premiere%206.png" group-title="GERAL",Premiere 6 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1896
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 HD" tvg-logo="http://prinplay.com.br/server/Premiere%206.png" group-title="GERAL",Premiere 6 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2195
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7" tvg-logo="http://prinplay.com.br/server/Premiere%207.png" group-title="GERAL",Premiere 7
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2196
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 Alternativo" tvg-logo="http://prinplay.com.br/server/Premiere%207.png" group-title="GERAL",Premiere 7 Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1161
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 Alternativo HD" tvg-logo="http://prinplay.com.br/server/Premiere%207.png" group-title="GERAL",Premiere 7 Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/7946
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 FHD" tvg-logo="http://prinplay.com.br/server/Premiere%207.png" group-title="GERAL",Premiere 7 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1897
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 HD" tvg-logo="http://prinplay.com.br/server/Premiere%207.png" group-title="GERAL",Premiere 7 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2197
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 8" tvg-logo="http://prinplay.com.br/server/Premiere%205.png" group-title="GERAL",Premiere 8
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/914936
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes" tvg-logo="http://prinplay.com.br/server/Premiere%20Clubes.png" group-title="GERAL",Premiere Clubes
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2198
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes Alternativo" tvg-logo="http://prinplay.com.br/server/Premiere%20Clubes.png" group-title="GERAL",Premiere Clubes Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1163
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes Alternativo HD" tvg-logo="http://prinplay.com.br/server/Premiere%20Clubes%20HD.png" group-title="GERAL",Premiere Clubes Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1277
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://prinplay.com.br/server/Premiere%20Clubes%20HD.png" group-title="GERAL",Premiere Clubes FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1898
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://prinplay.com.br/server/Premiere%20Clubes%20HD.png" group-title="GERAL",Premiere Clubes HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2199
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brasil" tvg-logo="http://prinplay.com.br/server/Prime%20Box%20Brazil.png" group-title="GERAL",Prime Box Brasil
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2200
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brasil Alternativo" tvg-logo="http://prinplay.com.br/server/Prime%20Box%20Brazil.png" group-title="GERAL",Prime Box Brasil Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1164
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brasil FHD" tvg-logo="http://prinplay.com.br/server/Prime%20Box%20Brazil%20HD.png" group-title="GERAL",Prime Box Brasil FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1860
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brasil HD" tvg-logo="http://prinplay.com.br/server/Prime%20Box%20Brazil%20HD.png" group-title="GERAL",Prime Box Brasil HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2201
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime Vídeo 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="GERAL",Prime Vídeo 03
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/77851
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime Vídeo 04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="GERAL",Prime Vídeo 04
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/77858
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime Vídeo 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="GERAL",Prime Vídeo 1
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/905452
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime Video 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="GERAL",Prime Video 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/928884
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime Video Alternativo 1" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="GERAL",Prime Video Alternativo 1
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/928882
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime Video Alternativo 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="GERAL",Prime Video Alternativo 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/928885
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime Vídeo FHD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="GERAL",Prime Vídeo FHD 1
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/77850
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime Vídeo FHD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="GERAL",Prime Vídeo FHD 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/77859
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime Video HD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="GERAL",Prime Video HD 1
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/928881
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime Video HD 2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/150px-Amazon_Prime_Logo.svg.png" group-title="GERAL",Prime Video HD 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/928883
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record Campinas" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="GERAL",Record Campinas
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/19845
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="Record Campinas HD" tvg-logo="http://prinplay.com.br/server/Record%20HD.png" group-title="GERAL",Record Campinas HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/45140
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News" tvg-logo="http://prinplay.com.br/server/Record%20News.png" group-title="GERAL",Record News
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2204
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News Alternativo" tvg-logo="http://prinplay.com.br/server/Record%20News.png" group-title="GERAL",Record News Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1166
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News Alternativo HD" tvg-logo="http://prinplay.com.br/server/Record%20News.png" group-title="GERAL",Record News Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1475
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News FHD" tvg-logo="http://prinplay.com.br/server/Record%20News.png" group-title="GERAL",Record News FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1861
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News FHDR" tvg-logo="http://prinplay.com.br/server/Record%20News.png" group-title="GERAL",Record News FHDR
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/915994
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News HD" tvg-logo="http://prinplay.com.br/server/Record%20News.png" group-title="GERAL",Record News HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2205
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="GERAL",Record SP
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1899
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP Alternativo" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="GERAL",Record SP Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1165
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP Alternativo HD" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="GERAL",Record SP Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1278
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP FHD" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="GERAL",Record SP FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2371
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP HD" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="GERAL",Record SP HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2206
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP HD2" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="GERAL",Record SP HD2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2203
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP Interior" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="GERAL",Record SP Interior
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/913838
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV" tvg-logo="http://prinplay.com.br/server/Rede%20TV%21.png" group-title="GERAL",Rede TV
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2208
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV FHD" tvg-logo="http://prinplay.com.br/server/Rede%20TV%21%20HD.png" group-title="GERAL",Rede TV FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1910
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV HD" tvg-logo="http://prinplay.com.br/server/Rede%20TV%21%20HD.png" group-title="GERAL",Rede TV HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2209
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sabor & Arte" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="GERAL",Sabor & Arte
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/61332
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel" tvg-logo="http://prinplay.com.br/server/Sony%20Channel.png" group-title="GERAL",Sony Channel
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2068
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel FHD" tvg-logo="http://prinplay.com.br/server/Sony%20Channel.png" group-title="GERAL",Sony Channel FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1814
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel HD" tvg-logo="http://prinplay.com.br/server/Sony%20Channel.png" group-title="GERAL",Sony Channel HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2069
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel LEG" tvg-logo="http://prinplay.com.br/server/Sony%20Channel.png" group-title="GERAL",Sony Channel LEG
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901854
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space" tvg-logo="http://prinplay.com.br/server/Space.png" group-title="GERAL",Space
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2216
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="http://prinplay.com.br/server/Space%20HD.png" group-title="GERAL",Space FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1862
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="http://prinplay.com.br/server/Space%20HD.png" group-title="GERAL",Space HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2217
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space LEG" tvg-logo="http://prinplay.com.br/server/Space.png" group-title="GERAL",Space LEG
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901859
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="GERAL",SporTV
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2218
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="GERAL",SporTV 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2219
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 Alternativo" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="GERAL",SporTV 2 Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1173
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 Alternativo HD" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="GERAL",SporTV 2 Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1301
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="GERAL",SporTV 2 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1917
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD²" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="GERAL",SporTV 2 FHD²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/13072
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="GERAL",SporTV 2 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2036
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="GERAL",SporTV 3
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2220
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 Alternativo" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="GERAL",SporTV 3 Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1174
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 Alternativo  HD" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="GERAL",SporTV 3 Alternativo  HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1302
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="GERAL",SporTV 3 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1918
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD²" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="GERAL",SporTV 3 FHD²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/13075
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="GERAL",SporTV 3 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2037
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV Alternativo" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="GERAL",SporTV Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1221
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV Alternativo HD" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="GERAL",SporTV Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1303
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="GERAL",SporTV FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2035
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD²" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="GERAL",SporTV FHD²
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/13069
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="GERAL",SporTV HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2038
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel" tvg-logo="http://prinplay.com.br/server/Star%20Channel.png" group-title="GERAL",Star Channel
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2113
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel FHD" tvg-logo="http://prinplay.com.br/server/Star%20Channel.png" group-title="GERAL",Star Channel FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1885
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel FHD LEG" tvg-logo="http://prinplay.com.br/server/Star%20Channel.png" group-title="GERAL",Star Channel FHD LEG
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/24779
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel HD" tvg-logo="http://prinplay.com.br/server/Star%20Channel.png" group-title="GERAL",Star Channel HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2114
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel LEG" tvg-logo="http://prinplay.com.br/server/Star%20Channel.png" group-title="GERAL",Star Channel LEG
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2338
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal" tvg-logo="http://prinplay.com.br/server/Studio%20Universal.png" group-title="GERAL",Studio Universal
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2221
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal FHD" tvg-logo="http://prinplay.com.br/server/Studio%20Universal%20HD.png" group-title="GERAL",Studio Universal FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1863
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD" tvg-logo="http://prinplay.com.br/server/Studio%20Universal%20HD.png" group-title="GERAL",Studio Universal HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2222
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS" tvg-logo="http://prinplay.com.br/server/TBS%20HD.png" group-title="GERAL",TBS
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2223
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD" tvg-logo="http://prinplay.com.br/server/TBS%20HD.png" group-title="GERAL",TBS FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1865
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://prinplay.com.br/server/TBS%20HD.png" group-title="GERAL",TBS HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2224
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="GERAL",TCM
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2225
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD" tvg-logo="http://prinplay.com.br/server/TCM.png" group-title="GERAL",TCM FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/47726
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="http://prinplay.com.br/server/TCM.png" group-title="GERAL",TCM HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/47727
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action" tvg-logo="http://prinplay.com.br/server/Telecine%20Action.png" group-title="GERAL",Telecine Action
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2226
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action Alternativo" tvg-logo="http://prinplay.com.br/server/Telecine%20Action.png" group-title="GERAL",Telecine Action Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1225
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action Alternativo HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Action.png" group-title="GERAL",Telecine Action Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1279
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action FHD" tvg-logo="http://prinplay.com.br/server/Telecine%20Action.png" group-title="GERAL",Telecine Action FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1901
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Action.png" group-title="GERAL",Telecine Action HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2227
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action LEG" tvg-logo="http://prinplay.com.br/server/Telecine%20Action.png" group-title="GERAL",Telecine Action LEG
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2346
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Alternativo Cult HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Cult.png" group-title="GERAL",Telecine Alternativo Cult HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1347
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult" tvg-logo="http://prinplay.com.br/server/Telecine%20Cult.png" group-title="GERAL",Telecine Cult
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2228
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult Alternativo" tvg-logo="http://prinplay.com.br/server/Telecine%20Cult.png" group-title="GERAL",Telecine Cult Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1226
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult FHD" tvg-logo="http://prinplay.com.br/server/Telecine%20Cult.png" group-title="GERAL",Telecine Cult FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1866
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Cult.png" group-title="GERAL",Telecine Cult HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2229
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun" tvg-logo="http://prinplay.com.br/server/Telecine%20Fun.png" group-title="GERAL",Telecine Fun
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2230
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun Alternativo" tvg-logo="http://prinplay.com.br/server/Telecine%20Fun.png" group-title="GERAL",Telecine Fun Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1227
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun Alternativo HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Fun.png" group-title="GERAL",Telecine Fun Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1280
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun FHD" tvg-logo="http://prinplay.com.br/server/Telecine%20Fun.png" group-title="GERAL",Telecine Fun FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1902
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Fun.png" group-title="GERAL",Telecine Fun HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2231
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun LEG" tvg-logo="http://prinplay.com.br/server/Telecine%20Fun.png" group-title="GERAL",Telecine Fun LEG
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2348
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca" tvg-logo="http://prinplay.com.br/server/Telecine%20Pipoca.png" group-title="GERAL",Telecine Pipoca
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2232
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca Alternativo" tvg-logo="http://prinplay.com.br/server/Telecine%20Pipoca.png" group-title="GERAL",Telecine Pipoca Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1229
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca Alternativo HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Pipoca.png" group-title="GERAL",Telecine Pipoca Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1281
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="http://prinplay.com.br/server/Telecine%20Pipoca.png" group-title="GERAL",Telecine Pipoca FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1903
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Pipoca.png" group-title="GERAL",Telecine Pipoca HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2233
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca LEG" tvg-logo="http://prinplay.com.br/server/Telecine%20Pipoca.png" group-title="GERAL",Telecine Pipoca LEG
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2350
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium" tvg-logo="http://prinplay.com.br/server/Telecine%20Premium.png" group-title="GERAL",Telecine Premium
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2234
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium Alternativo" tvg-logo="http://prinplay.com.br/server/Telecine%20Premium.png" group-title="GERAL",Telecine Premium Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1230
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium Alternativo HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Premium.png" group-title="GERAL",Telecine Premium Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1282
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium FHD" tvg-logo="http://prinplay.com.br/server/Telecine%20Premium.png" group-title="GERAL",Telecine Premium FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1904
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Premium.png" group-title="GERAL",Telecine Premium HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2235
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium LEG" tvg-logo="http://prinplay.com.br/server/Telecine%20Premium.png" group-title="GERAL",Telecine Premium LEG
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2352
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch" tvg-logo="http://prinplay.com.br/server/Telecine%20Touch.png" group-title="GERAL",Telecine Touch
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2236
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch Alternativo" tvg-logo="http://prinplay.com.br/server/Telecine%20Touch.png" group-title="GERAL",Telecine Touch Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1231
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch Alternativo HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Touch.png" group-title="GERAL",Telecine Touch Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1326
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch FHD" tvg-logo="http://prinplay.com.br/server/Telecine%20Touch.png" group-title="GERAL",Telecine Touch FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1905
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch HD" tvg-logo="http://prinplay.com.br/server/Telecine%20Touch.png" group-title="GERAL",Telecine Touch HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2237
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch LEG" tvg-logo="http://prinplay.com.br/server/Telecine%20Touch.png" group-title="GERAL",Telecine Touch LEG
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2354
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC" tvg-logo="http://prinplay.com.br/server/TLC.png" group-title="GERAL",TLC
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2239
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC Alternativo" tvg-logo="http://prinplay.com.br/server/TLC.png" group-title="GERAL",TLC Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1233
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC Alternativo HD" tvg-logo="http://prinplay.com.br/server/TLC%20HD.png" group-title="GERAL",TLC Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1348
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD" tvg-logo="http://prinplay.com.br/server/TLC%20HD.png" group-title="GERAL",TLC FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1867
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="http://prinplay.com.br/server/TLC%20HD.png" group-title="GERAL",TLC HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2240
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT" tvg-logo="http://prinplay.com.br/server/TNT.png" group-title="GERAL",TNT
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2241
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT Alternativo" tvg-logo="http://prinplay.com.br/server/TNT.png" group-title="GERAL",TNT Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1234
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT Alternativo HD" tvg-logo="http://prinplay.com.br/server/TNT%20HD.png" group-title="GERAL",TNT Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1283
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="http://prinplay.com.br/server/TNT%20HD.png" group-title="GERAL",TNT FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1868
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://prinplay.com.br/server/TNT%20HD.png" group-title="GERAL",TNT HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2242
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT LEG" tvg-logo="http://prinplay.com.br/server/TNT.png" group-title="GERAL",TNT LEG
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901860
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/380px-Logo_TNT_Novelas.png" group-title="GERAL",TNT Novelas
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/908274
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/380px-Logo_TNT_Novelas.png" group-title="GERAL",TNT Novelas FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/908272
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/380px-Logo_TNT_Novelas.png" group-title="GERAL",TNT Novelas HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/908273
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries.png" group-title="GERAL",TNT Series
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2243
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series FHD" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries%20HD.png" group-title="GERAL",TNT Series FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1869
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series HD" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries%20HD.png" group-title="GERAL",TNT Series HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2244
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series LG" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries.png" group-title="GERAL",TNT Series LG
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/901861
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast" tvg-logo="http://prinplay.com.br/server/Tooncast.png" group-title="GERAL",Tooncast
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2245
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast Alternativo" tvg-logo="http://prinplay.com.br/server/Tooncast.png" group-title="GERAL",Tooncast Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1236
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brazil" tvg-logo="https://prinplay.com.br/server/Travel%20Box%20Brazil.png" group-title="GERAL",Travel Box Brazil
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/943912
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brazil FHD" tvg-logo="https://prinplay.com.br/server/Travel%20Box%20Brazil.png" group-title="GERAL",Travel Box Brazil FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/943910
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brazil HD" tvg-logo="https://prinplay.com.br/server/Travel%20Box%20Brazil.png" group-title="GERAL",Travel Box Brazil HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/943911
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV Brasil" tvg-logo="http://prinplay.com.br/server/TV%20Brasill.png" group-title="GERAL",TV Brasil
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2249
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV Brasil FHD" tvg-logo="http://prinplay.com.br/server/TV%20Brasill.png" group-title="GERAL",TV Brasil FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/897609
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV Brasil HD" tvg-logo="http://prinplay.com.br/server/TV%20Brasill.png" group-title="GERAL",TV Brasil HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/61722
+#EXTINF:-1 tvg-id="tv.camara.br" tvg-name="TV Câmara HD" tvg-logo="http://prinplay.com.br/server/TV%20C%C3%A2mara.png" group-title="GERAL",TV Câmara HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/61721
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura" tvg-logo="http://prinplay.com.br/server/Cultura.png" group-title="GERAL",TV Cultura
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2271
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura FHD" tvg-logo="http://prinplay.com.br/server/Cultura.png" group-title="GERAL",TV Cultura FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1909
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura HD" tvg-logo="http://prinplay.com.br/server/Cultura.png" group-title="GERAL",TV Cultura HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2272
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV Diário Fortaleza" tvg-logo="http://prinplay.com.br/server/TV%20Di%C3%A1rio.png" group-title="GERAL",TV Diário Fortaleza
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2288
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV Diário Fortaleza FHD" tvg-logo="http://prinplay.com.br/server/TV%20Di%C3%A1rio.png" group-title="GERAL",TV Diário Fortaleza FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1914
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV Diario Fortaleza HD" tvg-logo="http://prinplay.com.br/server/TV%20Di%C3%A1rio.png" group-title="GERAL",TV Diario Fortaleza HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2287
+#EXTINF:-1 tvg-id="tv.escola.br" tvg-name="TV Escola" tvg-logo="http://prinplay.com.br/server/TV%20Escola.png" group-title="GERAL",TV Escola
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2251
+#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="TV Gazeta SP" tvg-logo="http://prinplay.com.br/server/Gazeta.png" group-title="GERAL",TV Gazeta SP
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/24272
+#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="TV Gazeta SP  HD" tvg-logo="http://prinplay.com.br/server/Gazeta.png" group-title="GERAL",TV Gazeta SP  HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2252
+#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="TV Gazeta SP FHD" tvg-logo="http://prinplay.com.br/server/Gazeta.png" group-title="GERAL",TV Gazeta SP FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/24271
+#EXTINF:-1 tvg-id="tv.justica.br" tvg-name="TV Justica" tvg-logo="http://prinplay.com.br/server/TV%20Justi%C3%A7a.png" group-title="GERAL",TV Justica
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2247
+#EXTINF:-1 tvg-id="tv.justica.br" tvg-name="TV Justiça HD" tvg-logo="http://prinplay.com.br/server/TV%20Justi%C3%A7a.png" group-title="GERAL",TV Justiça HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/61723
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="GERAL",TV Ra Tim Bum
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2253
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum Alternativo" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="GERAL",TV Ra Tim Bum Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1215
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum FHD" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="GERAL",TV Ra Tim Bum FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1871
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://prinplay.com.br/server/TV%20R%C3%A1%20Tim%20Bum.png" group-title="GERAL",TV Ra Tim Bum HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2254
+#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV Senado" tvg-logo="http://prinplay.com.br/server/TV%20Senado.png" group-title="GERAL",TV Senado
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2246
+#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV Senado HD" tvg-logo="http://prinplay.com.br/server/TV%20Senado.png" group-title="GERAL",TV Senado HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/61724
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight Pass 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="GERAL",UFC Fight Pass 1
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/957064
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight Pass 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="GERAL",UFC Fight Pass 1 FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/902438
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight Pass 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="GERAL",UFC Fight Pass 1 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/896939
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight Pass 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="GERAL",UFC Fight Pass 2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/896842
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight Pass 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/320px-UFC_Fight_Pass_Logo.svg.png" group-title="GERAL",UFC Fight Pass 2 HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/902439
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV" tvg-logo="http://prinplay.com.br/server/Universal%20TV.png" group-title="GERAL",Universal TV
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2257
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV Alternativo" tvg-logo="http://prinplay.com.br/server/Universal%20TV.png" group-title="GERAL",Universal TV Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1240
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV Alternativo HD" tvg-logo="http://prinplay.com.br/server/Universal%20TV.png" group-title="GERAL",Universal TV Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1327
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV FHD" tvg-logo="http://prinplay.com.br/server/Universal%20TV.png" group-title="GERAL",Universal TV FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1872
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV HD" tvg-logo="http://prinplay.com.br/server/Universal%20TV.png" group-title="GERAL",Universal TV HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2258
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Urban Kids" tvg-logo="http://prinplay.com.br/server/Urban%20Kids.png" group-title="GERAL",Urban Kids
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/71263
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Urban Movies" tvg-logo="http://prinplay.com.br/server/Urban%20Movies.png" group-title="GERAL",Urban Movies
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/71264
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Urban Series" tvg-logo="http://prinplay.com.br/server/Urban%20Series.png" group-title="GERAL",Urban Series
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/71266
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Urban TV" tvg-logo="http://prinplay.com.br/server/UrbanTV.png" group-title="GERAL",Urban TV
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/71265
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA" tvg-logo="http://prinplay.com.br/server/Syfy.png" group-title="GERAL",USA
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2214
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA Alternativo" tvg-logo="http://prinplay.com.br/server/Syfy.png" group-title="GERAL",USA Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1223
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA Alternativo HD" tvg-logo="http://prinplay.com.br/server/Syfy%20HD.png" group-title="GERAL",USA Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1267
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA FHD" tvg-logo="http://prinplay.com.br/server/Syfy%20HD.png" group-title="GERAL",USA FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1864
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="USA HD" tvg-logo="http://prinplay.com.br/server/Syfy%20HD.png" group-title="GERAL",USA HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2215
+#EXTINF:-1 tvg-id="vh1.megahits.br" tvg-name="VH1 Mega Hits" tvg-logo="http://prinplay.com.br/server/VH1%20Mega%20Hits.png" group-title="GERAL",VH1 Mega Hits
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2261
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva" tvg-logo="http://prinplay.com.br/server/Viva.png" group-title="GERAL",Viva
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2262
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva Alternativo" tvg-logo="http://prinplay.com.br/server/Viva.png" group-title="GERAL",Viva Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1243
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva Alternativo HD" tvg-logo="http://prinplay.com.br/server/Viva%20HD.png" group-title="GERAL",Viva Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1306
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva FHD" tvg-logo="http://prinplay.com.br/server/Viva%20HD.png" group-title="GERAL",Viva FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1906
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="http://prinplay.com.br/server/Viva%20HD.png" group-title="GERAL",Viva HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2263
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel" tvg-logo="http://prinplay.com.br/server/Warner%20Channel.png" group-title="GERAL",Warner Channel
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2264
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel FHD" tvg-logo="http://prinplay.com.br/server/Warner%20Channel%20HD.png" group-title="GERAL",Warner Channel FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1874
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel HD" tvg-logo="http://prinplay.com.br/server/Warner%20Channel%20HD.png" group-title="GERAL",Warner Channel HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2265
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner HD LEG" tvg-logo="http://prinplay.com.br/server/Warner%20Channel%20HD.png" group-title="GERAL",Warner HD LEG
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2367
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo" tvg-logo="http://prinplay.com.br/server/WooHoo.png" group-title="GERAL",Woohoo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2266
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo Alternativo" tvg-logo="http://prinplay.com.br/server/WooHoo.png" group-title="GERAL",Woohoo Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1245
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo Alternativo HD" tvg-logo="http://prinplay.com.br/server/WooHoo.png" group-title="GERAL",Woohoo Alternativo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1349
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo FHD" tvg-logo="http://prinplay.com.br/server/WooHoo.png" group-title="GERAL",Woohoo FHD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1875
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo HD" tvg-logo="http://prinplay.com.br/server/WooHoo.png" group-title="GERAL",Woohoo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2267
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zapping Sports" tvg-logo="https://telaviva.com.br/wp-content/uploads/2023/08/Zapping.png" group-title="GERAL",Zapping Sports
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/941090
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo" tvg-logo="http://prinplay.com.br/server/ZooMoo.png" group-title="GERAL",Zoomoo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/2293
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo Alternativo" tvg-logo="http://prinplay.com.br/server/ZooMoo.png" group-title="GERAL",ZooMoo Alternativo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/1246
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo HD" tvg-logo="http://prinplay.com.br/server/ZooMoo.png" group-title="GERAL",Zoomoo HD
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/45260
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h ] Animaniacs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYHu47S3yBPbWvlh4YbIYJ5e8X1.jpg" group-title="24H",[24h ] Animaniacs
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/62798
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] 220 Volts" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPX7V19ME8y6qjuu1Uj1txrhnSY.jpg" group-title="24H",[24h] 220 Volts
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/56850
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] 3 Palavrinhas" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qkVKGBpxAAHNBNIsOqUgmtedVPn.jpg" group-title="24H",[24h] 3 Palavrinhas
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935892
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] 44 Gatos" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dGz27tMZsHpaRve3ANfXQR3bnZe.jpg" group-title="24H",[24h] 44 Gatos
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937315
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] 90 Dias Para Casar: A Última Chance" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vDbN6rxAx85IiDAOieJmIMtQw8V.jpg" group-title="24H",[24h] 90 Dias Para Casar: A Última Chance
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936826
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] 90 Dias Para Ficar Milionário" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5A3XUbCr7hcCylesLVklErVpR8m.jpg" group-title="24H",[24h] 90 Dias Para Ficar Milionário
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937048
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] A Casa do Mickey S01" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4vNQVFa4icNSphODjw1wFXTfDcJ.jpg" group-title="24H",[24h] A Casa do Mickey S01
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935841
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] A Casa Do Mickey S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4vNQVFa4icNSphODjw1wFXTfDcJ.jpg" group-title="24H",[24h] A Casa Do Mickey S02
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935842
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] A Casa Do Mickey S03 S04 S05" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4vNQVFa4icNSphODjw1wFXTfDcJ.jpg" group-title="24H",[24h] A Casa Do Mickey S03 S04 S05
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935843
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] A Corrida Maluca" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/npvIKcUvQqDlW6zINy6rA7jAUp2.jpg" group-title="24H",[24h] A Corrida Maluca
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936280
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] A Lenda de Tarzan" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w5mGLHBT59nFilSPgd5TgJnZ1ix.jpg" group-title="24H",[24h] A Lenda de Tarzan
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937041
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] A Mansão Foster para Amigos Imaginários" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aerZJVODYwji4BnyWrHFmF3JxhX.jpg" group-title="24H",[24h] A Mansão Foster para Amigos Imaginários
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/60294
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] A Pequena Sereia" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wrdVQhUeswpZiRmNU2zK1pHP5wH.jpg" group-title="24H",[24h] A Pequena Sereia
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937633
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] A Turma do Charlie Brown e Snoopy" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3wAaBg4eIrMi8yeMf79tVXY8KfT.jpg" group-title="24H",[24h] A Turma do Charlie Brown e Snoopy
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937274
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] A Turma do Manda-Chuva" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/749DnZBTmaLKf8BOm8Lq5W1LLgE.jpg" group-title="24H",[24h] A Turma do Manda-Chuva
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937301
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] A Turma do Ronaldinho Gaúcho" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2OZluT76j98A8IDLXRNq5WfmP2E.jpg" group-title="24H",[24h] A Turma do Ronaldinho Gaúcho
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937316
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] A Vaca e o Frango" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6Mbi0VjgMJvGkblSkhed5fOcB69.jpg" group-title="24H",[24h] A Vaca e o Frango
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936998
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] A Vida e As Aventuras de Juniper Lee" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tf5oQ2VTHS46ykMfFH6DeIjrfHp.jpg" group-title="24H",[24h] A Vida e As Aventuras de Juniper Lee
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/60302
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] A.I.C.O. Incarnation" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qwILI4tyWKr1jtpMTxSmbWZnr8s.jpg" group-title="24H",[24h] A.I.C.O. Incarnation
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936997
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Acampamento De Verão" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63nHPbKbroWostjpq4WLjjmhma7.jpg" group-title="24H",[24h] Acampamento De Verão
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/60303
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Afro Samurai" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1wif9a57obZA5N1UujiluoUahkI.jpg" group-title="24H",[24h] Afro Samurai
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87569
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] ALF o ETeimoso" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eAjQP2Q75lg6WgwlnhpdcBgeoOf.jpg" group-title="24H",[24h] ALF o ETeimoso
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/946035
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] ALF O ETeimoso Especiais 24hs" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eAjQP2Q75lg6WgwlnhpdcBgeoOf.jpg" group-title="24H",[24h] ALF O ETeimoso Especiais 24hs
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/939201
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Amphibia" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nRCsyl9OFKt0K6DF85UxP6FR90T.jpg" group-title="24H",[24h] Amphibia
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937042
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Ana Pimentinha" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4WWdPyBI7EdpH873sV9voLdCFr9.jpg" group-title="24H",[24h] Ana Pimentinha
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937147
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Andy e seu Esquilo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xxRUjFtXxkeVFW66MOBDkBP56qP.jpg" group-title="24H",[24h] Andy e seu Esquilo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/60309
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Apenas um Show S01-S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b56jpir0S12bxD6WyjMZg92c9Zr.jpg" group-title="24H",[24h] Apenas um Show S01-S04
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937043
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Apenas um Show S05-S09" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b56jpir0S12bxD6WyjMZg92c9Zr.jpg" group-title="24H",[24h] Apenas um Show S05-S09
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937044
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] As Aventuras de Jackie Chan" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/149PSw4MJ0qKIVGvMHqZkT2Lojf.jpg" group-title="24H",[24h] As Aventuras de Jackie Chan
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936274
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] As Aventuras de Mickey e Donald" tvg-logo="https://imgur.com/3Vxbntm.jpg" group-title="24H",[24h] As Aventuras de Mickey e Donald
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937516
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] As Aventuras de Tintim Desenhos 24hs" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/umlovDiFIbnR0mkFsDzmiHoxVOH.jpg" group-title="24H",[24h] As Aventuras de Tintim Desenhos 24hs
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/939198
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] As Meninas Super Poderosas Desenhos 24hs" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ftFTY3EZTTAP5RKfRijD8Q8PNQX.jpg" group-title="24H",[24H] As Meninas Super Poderosas Desenhos 24hs
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/939199
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] As Meninas Superpoderosas Geração Z" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eyma9skDvtn6drk7sFtfmbTV3Vb.jpg" group-title="24H",[24h] As Meninas Superpoderosas Geração Z
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/60312
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] As Tartarugas Ninja S01-S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jAoSfL20SHdaO0ptjg9sL3qxoFe.jpg" group-title="24H",[24h] As Tartarugas Ninja S01-S02
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937045
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] As Tartarugas Ninja S03-S05" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jAoSfL20SHdaO0ptjg9sL3qxoFe.jpg" group-title="24H",[24h] As Tartarugas Ninja S03-S05
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937046
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] As Terríveis Aventuras de Billy e Mandy" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gxdTn5UwvriN1EzDSNnWr5AAQN7.jpg" group-title="24H",[24h] As Terríveis Aventuras de Billy e Mandy
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/60310
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] As Trapalhadas de Flapjack" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n2nywQCi0SxyBjlNrYHKkI9tgod.jpg" group-title="24H",[24h] As Trapalhadas de Flapjack
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/60311
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Baby Shark: O Grande Show" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oXBEZ8nCbThw9v7WTGSuSyjVo3a.jpg" group-title="24H",[24h] Baby Shark: O Grande Show
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937558
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Barbie: It Takes Two" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4KFeoNVIAKKxETRrbika8mAbswl.jpg" group-title="24H",[24h] Barbie: It Takes Two
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935894
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Batwheels" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2BY0gFzJfVMAJkYameynkOkHcA1.jpg" group-title="24H",[24h] Batwheels
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937146
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Ben 10" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg" group-title="24H",[24h] Ben 10
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936999
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Ben 10 Reboot" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a4H0UR7aUkGZlT6Q9r9grBrjJWR.jpg" group-title="24H",[24h] Ben 10 Reboot
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/60315
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Ben 10: Força Alienígena" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pGhCUqPaXZ0Xp4dUCT7Q6hjJArf.jpg" group-title="24H",[24h] Ben 10: Força Alienígena
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/60313
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Ben 10: Omniverse" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Re9I5tauOspaJxYCIqRqavKT4F.jpg" group-title="24H",[24h] Ben 10: Omniverse
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/60314
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Ben 10: Supremacia Alienígena" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2YgXSWdHpRU3KzlK47tD6a3E6nY.jpg" group-title="24H",[24h] Ben 10: Supremacia Alienígena
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/60316
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Billy Dilley" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qlR4oGbBmQytnnjyayatQW0vX6M.jpg" group-title="24H",[24h] Billy Dilley
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937047
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Black Clover" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cFQbcQ5H7ykbrslm5DFzhYQ006J.jpg" group-title="24H",[24H] Black Clover
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937029
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Black Kamen Rider Rx" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fIJNVBa6MJStPiOvhLV69nAdu0e.jpg" group-title="24H",[24h] Black Kamen Rider Rx
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937385
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Blue Dragon" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kz1WUNjTUnjQCYvvpn4Jx0ZV22A.jpg" group-title="24H",[24h] Blue Dragon
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937030
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Bob Esponja Calça Quadrada S01 a S03" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9jVJY3tD4t5udjYDL9F3qe4mjh5.jpg" group-title="24H",[24h] Bob Esponja Calça Quadrada S01 a S03
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936275
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Bob Esponja Calça Quadrada S04 a S06" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9jVJY3tD4t5udjYDL9F3qe4mjh5.jpg" group-title="24H",[24h] Bob Esponja Calça Quadrada S04 a S06
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936276
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Bob Zoom" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yr83vGcXQmSfzEEOVj44nOrS3oP.jpg" group-title="24H",[24h] Bob Zoom
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935864
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Capitão Planeta" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oTUdMgcSs3duIjoWBiZlgtVUNN3.jpg" group-title="24H",[24h] Capitão Planeta
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936277
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Carmen Sandiego" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lGSOOzYtg3fqdzjlXKwPa0vH9mp.jpg" group-title="24H",[24h] Carmen Sandiego
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Castlevania" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lGSOOzYtg3fqdzjlXKwPa0vH9mp.jpg" group-title="24H",[24h] Castlevania
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937002
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Cavaleiros do Zodiaco - 12 Casas" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3nEe4PCafQpKYaSdkKTyAaTw16H.jpg" group-title="24H",[24h] Cavaleiros do Zodiaco - 12 Casas
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937034
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Cavaleiros do Zodiaco - Alma de Ouro" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/39qqUS2EDpiYGfkshiUZ69K61Uq.jpg" group-title="24H",[24h] Cavaleiros do Zodiaco - Alma de Ouro
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937038
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Cavaleiros do Zodiaco - Asgard" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3nEe4PCafQpKYaSdkKTyAaTw16H.jpg" group-title="24H",[24h] Cavaleiros do Zodiaco - Asgard
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937035
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Cavaleiros do Zodiaco - Hades" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8nCfBKaGVftgH65FpKoGFIUNOob.jpg" group-title="24H",[24h] Cavaleiros do Zodiaco - Hades
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937037
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Cavaleiros do Zodiaco - Ômega" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nMmq4AG9Vve3jA9wGHFhm9ezMHI.jpg" group-title="24H",[24h] Cavaleiros do Zodiaco - Ômega
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937040
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Cavaleiros do Zodiaco - Poseidon" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3nEe4PCafQpKYaSdkKTyAaTw16H.jpg" group-title="24H",[24h] Cavaleiros do Zodiaco - Poseidon
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937036
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Cavaleiros do Zodiaco - Santuário" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3nEe4PCafQpKYaSdkKTyAaTw16H.jpg" group-title="24H",[24h] Cavaleiros do Zodiaco - Santuário
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937033
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Cavaleiros do Zodiaco - The Lost Canvas" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2KFlvSkrPVj64PGDzdCYPTiTiMg.jpg" group-title="24H",[24h] Cavaleiros do Zodiaco - The Lost Canvas
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937039
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Caverna do Dragão" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg" group-title="24H",[24h] Caverna do Dragão
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/68881
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Changeman" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/54Q2MOsu5M3jvN84TwoIG9D324o.jpg" group-title="24H",[24h] Changeman
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937497
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Chapolim S01 e S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nA23gBvmdBRRm245LPI3XmuHh51.jpg" group-title="24H",[24h] Chapolim S01 e S02
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937112
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Chapolim S03 e S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nA23gBvmdBRRm245LPI3XmuHh51.jpg" group-title="24H",[24h] Chapolim S03 e S04
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937113
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Chapolim S05 a S07" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nA23gBvmdBRRm245LPI3XmuHh51.jpg" group-title="24H",[24h] Chapolim S05 a S07
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937114
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Chaves Em Desenho S01 a S03" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gIApIbyHEb3UcoxbHtbgqtXbHbq.jpg" group-title="24H",[24h] Chaves Em Desenho S01 a S03
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936278
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Chaves Em Desenho S04 a S05" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gIApIbyHEb3UcoxbHtbgqtXbHbq.jpg" group-title="24H",[24h] Chaves Em Desenho S04 a S05
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936279
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Chaves S01 e S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sVeLU8o3qA5zvAqK00X5LvRzygg.jpg" group-title="24H",[24h] Chaves S01 e S02
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937109
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Chaves S03 e S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sVeLU8o3qA5zvAqK00X5LvRzygg.jpg" group-title="24H",[24h] Chaves S03 e S04
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937110
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Chaves S05 a S07" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sVeLU8o3qA5zvAqK00X5LvRzygg.jpg" group-title="24H",[24h] Chaves S05 a S07
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937111
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Clarêncio O Otimista" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rUWNAR3FlJDFRabvCBDNA3ryZJw.jpg" group-title="24H",[24h] Clarêncio O Otimista
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935913
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Code Geass" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8p3HXHOQXjMpU9gAkZVAqozhDzQ.jpg" group-title="24H",[24h] Code Geass
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87562
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Cyberpunk: Mercenários" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nWvAY8yHE873adMws83XqBPf7W2.jpg" group-title="24H",[24h] Cyberpunk: Mercenários
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937004
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] D.Gray-Man" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/txCtE7ToSLuG8sy8tAIh9q5JAYS.jpg" group-title="24H",[24h] D.Gray-Man
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87563
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Daniel o Caçador de Magia" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/83jBawRjY6YF8RjoopVZ92UvFYM.jpg" group-title="24H",[24h] Daniel o Caçador de Magia
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937005
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Daniel Tigre" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4xYEbqOm7AUF3Y6D8cY0jM2yXE9.jpg" group-title="24H",[24h] Daniel Tigre
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937298
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Daniel Tigre: Canções" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4xYEbqOm7AUF3Y6D8cY0jM2yXE9.jpg" group-title="24H",[24h] Daniel Tigre: Canções
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937299
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] De Volta para o Futuro" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6sgVnE0oMsnunGuFxWWREB6ELSN.jpg" group-title="24H",[24H] De Volta para o Futuro
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/941753
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Death Note" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iigTJJskR1PcjjXqxdyJwVB3BoU.jpg" group-title="24H",[24h] Death Note
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87565
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Demon Slayer: Kimetsu no Yaiba" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wrCVHdkBlBWdJUZPvnJWcBRuhSY.jpg" group-title="24H",[24h] Demon Slayer: Kimetsu no Yaiba
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87566
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Dennis o Pimentinha" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mfwGhH7vQEZfv5wrV3kZjnqfn1u.jpg" group-title="24H",[24h] Dennis o Pimentinha
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/941754
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Dick Vigarista & Muttley: Máquinas Voadoras" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bmbAf75O4UpC5GVXnOiYigmeCrB.jpg" group-title="24H",[24h] Dick Vigarista & Muttley: Máquinas Voadoras
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937279
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Digimon Adventure" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7Qspx2eFX0uBSQLLlAKnYrjZgse.jpg" group-title="24H",[24h] Digimon Adventure
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937028
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Dora Aventureira" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tP2Wv3y1cBQRLiTqhMvc28d54Tb.jpg" group-title="24H",[24h] Dora Aventureira
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935866
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Doug" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fEzGDVHsUlOhU59EKSePobldyIf.jpg" group-title="24H",[24h] Doug
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937099
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] DPA Mini" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vsQgVUfddHkwtYUbSaXGfPc8bQZ.jpg" group-title="24H",[24h] DPA Mini
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937100
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Dr. Stone" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/64DIVpWiGlvvJczMnyu8jojSYKm.jpg" group-title="24H",[24h] Dr. Stone
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87567
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Dragões: Equipe de Resgate" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A6M2LtECJgfLbJ5b4JTjSnBa794.jpg" group-title="24H",[24h] Dragões: Equipe de Resgate
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937006
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Dragon Age: Absolvição" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tUCKP531G5ttqKGP6QatGalW3vk.jpg" group-title="24H",[24h] Dragon Age: Absolvição
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937007
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Dragon Ball - Androids" tvg-logo="https://imgur.com/Wy7Wnek.jpg" group-title="24H",[24h] Dragon Ball - Androids
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936938
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Dragon Ball - Cell" tvg-logo="https://imgur.com/GzZKf6H.jpg" group-title="24H",[24h] Dragon Ball - Cell
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936939
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Dragon Ball - Clássico" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/onCLyCOgszTIyyVs2XKYSkKPOPG.jpg" group-title="24H",[24h] Dragon Ball - Clássico
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936935
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Dragon Ball - Freezer" tvg-logo="https://imgur.com/IGai3dp.jpg" group-title="24H",[24h] Dragon Ball - Freezer
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936937
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Dragon Ball - GT" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rLHhDpv6rrhuzBjNzaMRNv2fng.jpg" group-title="24H",[24h] Dragon Ball - GT
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936941
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Dragon Ball - Majin Boo" tvg-logo="https://imgur.com/L8T3C0T.jpg" group-title="24H",[24h] Dragon Ball - Majin Boo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936940
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Dragon Ball - Sayajins" tvg-logo="https://imgur.com/uaW2tM3.jpg" group-title="24H",[24h] Dragon Ball - Sayajins
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936936
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Dragon Ball - Super" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oaYruAbW2UNnIROB2Bb94AI6YyT.jpg" group-title="24H",[24h] Dragon Ball - Super
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936942
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Dragon Ball Z Kai" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qxL2QgXCxe8QbiCMYvCVSCRJ731.jpg" group-title="24H",[24h] Dragon Ball Z Kai
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936944
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Drifting Dragons" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b6VOhuHfcuRvAALmCr8wDeH7Cbh.jpg" group-title="24H",[24h] Drifting Dragons
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87575
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Du Dudu e Edu" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ipLfSfDrRRRzoPSa2VT6pCpW3B6.jpg" group-title="24H",[24h] Du Dudu e Edu
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937276
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Edens Zero" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qYE9Lk9y3yO8GJSX25BsF7XOtD0.jpg" group-title="24H",[24h] Edens Zero
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87574
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Eletrônicas Antigas" tvg-logo="https://imgur.com/Jy89VoC.jpg" group-title="24H",[24h] Eletrônicas Antigas
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/943543
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Eletrônicas Atuais" tvg-logo="https://imgur.com/Jy89VoC.jpg" group-title="24H",[24h] Eletrônicas Atuais
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/943544
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Em que lugar da Terra está Carmen Sandiego" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lGSOOzYtg3fqdzjlXKwPa0vH9mp.jpg" group-title="24H",[24h] Em que lugar da Terra está Carmen Sandiego
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937001
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Eu sou Groot" tvg-logo="https://imgur.com/SroGp0w.jpg" group-title="24H",[24h] Eu sou Groot
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/88397
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Fora de Órbita" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gLf2ZI9sPf8nLAJoSUIsz6scntM.jpg" group-title="24H",[24h] Fora de Órbita
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87570
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Freakazoid" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ig0pc2AhY5d3GEghcxEWwo9AUtg.jpg" group-title="24H",[24h] Freakazoid
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937317
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Futurama" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7RRHbCUtAsVmKI6FEMzZB6Re88P.jpg" group-title="24H",[24h] Futurama
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936281
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Galinha Pintadinha" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bIZRBnn8djbEvi8AI8MymPqqekl.jpg" group-title="24H",[24h] Galinha Pintadinha
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935872
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Galinha Pintadinha Mini" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qq4E9OZEMCST45IQnrkn0Atv6e.jpg" group-title="24H",[24H] Galinha Pintadinha Mini
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935891
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Ghost in the Shell: SAC_2045" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hLHPuObVB8zSIoJFfsAYP365c1L.jpg" group-title="24H",[24h] Ghost in the Shell: SAC_2045
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87576
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Godzilla Singular Point" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/macY0UVe8ocAWq8WwYom25WC9Ps.jpg" group-title="24H",[24h] Godzilla Singular Point
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/56439
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Gravity Falls" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pLOWuYnhozZnXMpnCyT0aNfBMGa.jpg" group-title="24H",[24h] Gravity Falls
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937141
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Grizzy e os Lemmings" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qA3NM3luPVFqSpjxtK8de8Foe7M.jpg" group-title="24H",[24h] Grizzy e os Lemmings
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936479
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Guardiões da Galáxia" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dfmZmz7tSUo0FTkSG4TW0kuxOeg.jpg" group-title="24H",[24h] Guardiões da Galáxia
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937101
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] He-Man e Os Defensores do Universo S01" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lqwqYAqdFw02kLEbcmfl2KpZ2tc.jpg" group-title="24H",[24h] He-Man e Os Defensores do Universo S01
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937624
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] He-Man e Os Defensores do Universo S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lqwqYAqdFw02kLEbcmfl2KpZ2tc.jpg" group-title="24H",[24h] He-Man e Os Defensores do Universo S02
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937625
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] He-Man e os Mestres do Universo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gW4OSQbNLt6Fv2fuALAViqWslOa.jpg" group-title="24H",[24h] He-Man e os Mestres do Universo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937008
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Irmão do Jorel" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rH8SxdJrNRrdHGIvavZys6OrfrG.jpg" group-title="24H",[24h] Irmão do Jorel
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937145
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Jaspion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ab0CmiyA83TSZsMDzVNg7mZs3mm.jpg" group-title="24H",[24h] Jaspion
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/68880
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Jessie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tspQe0FuiaUj0U1R1norNbiYTe4.jpg" group-title="24H",[24h] Jessie
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935851
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Jiban" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxEsZ5MNqOYE0ZWjznKS6Gisqoc.jpg" group-title="24H",[24h] Jiban
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/68882
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Jonny Quest" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r2KUXlkfGdUz8wKir0gznnXymsh.jpg" group-title="24H",[24h] Jonny Quest
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937318
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Jornada nas Estrelas: Subalternos" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hzwFdjfh0TvkmDEBe5orhQ95JXz.jpg" group-title="24H",[24h] Jornada nas Estrelas: Subalternos
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937102
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Justiça Jovem" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7ZLVqaz3bS7zRwuXTwZwxZSFs7y.jpg" group-title="24H",[24h] Justiça Jovem
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937103
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Kakegurui" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1MUwcwNjK3nkXFzeFowUqfy0Qw.jpg" group-title="24H",[24h] Kakegurui
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87682
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Kamp Koral: Bob Esponja Primeiros Anos!" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/peZYB3aFOBoZbpFhOZogrTHVlqX.jpg" group-title="24H",[24h] Kamp Koral: Bob Esponja Primeiros Anos!
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937104
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Larva Família Larva e Ilhados" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDZ2rAmJ8mTojT929wTRMFKpv2L.jpg" group-title="24H",[24h] Larva Família Larva e Ilhados
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937319
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Leo o Caminhão" tvg-logo="https://imgur.com/FbI51rW.jpg" group-title="24H",[24h] Leo o Caminhão
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935871
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Magi: Aventuras de Sinbad" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dmNFk9TeB8YoKEhrn2n8tWkBSVO.jpg" group-title="24H",[24h] Magi: Aventuras de Sinbad
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87577
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Masha e o Urso" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ze2ocNwb3d2R3DLmzdL7kNFrx50.jpg" group-title="24H",[24h] Masha e o Urso
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935870
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Megaman" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lATtzpRx8MW1JisBb70s9N2y0wI.jpg" group-title="24H",[24h] Megaman
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937560
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Mestres do Universo: A Revolução" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6WYAYdPYwzQjAOnD6AD4E4OZfI3.jpg" group-title="24H",[24h] Mestres do Universo: A Revolução
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937010
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] MIB: Homens De Preto" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hmXG0SBVg0vjD4xp3jWQ0cZJIOr.jpg" group-title="24H",[24h] MIB: Homens De Preto
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937508
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Milo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r1K2dm8kgVBLAlzVgBVds5EJo3X.jpg" group-title="24H",[24h] Milo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937280
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Miraculous: As Aventuras de Ladybug  S01 e S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jROnM4gMSJlsfZpMighHuWeZt42.jpg" group-title="24H",[24h] Miraculous: As Aventuras de Ladybug  S01 e S02
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936282
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Miraculous: As Aventuras de Ladybug  S03 e S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jROnM4gMSJlsfZpMighHuWeZt42.jpg" group-title="24H",[24h] Miraculous: As Aventuras de Ladybug  S03 e S04
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936283
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Mpb" tvg-logo="https://imgur.com/Jy89VoC.jpg" group-title="24H",[24h] Mpb
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/943886
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Mr. Bean" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBIxJOJ5c3qBaGORFhqlZwe7bdz.jpg" group-title="24H",[24h] Mr. Bean
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/956243
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Mr. Bean: A Série Animada" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg" group-title="24H",[24h] Mr. Bean: A Série Animada
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/956575
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Mundo Bita" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/19xWCmiOlwKKpTXBibmAkaLKT1q.jpg" group-title="24H",[24h] Mundo Bita
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936284
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] My Hero Academy" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg" group-title="24H",[24h] My Hero Academy
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937031
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] O Chefinho: De Volta aos Negócios" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vbMwQXDGhdFdE4BT6FUhtLyEWSj.jpg" group-title="24H",[24h] O Chefinho: De Volta aos Negócios
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937011
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] O Máskara" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bOmWfBKD7ommflceQOccCKXjSh0.jpg" group-title="24H",[24h] O Máskara
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936286
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] O Novo Pica-Pau" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dQFOlAGgNQRn0rXa1sZZH1pLcYY.jpg" group-title="24H",[24h] O Novo Pica-Pau
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936285
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] O Pica-Pau" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dQFOlAGgNQRn0rXa1sZZH1pLcYY.jpg" group-title="24H",[24h] O Pica-Pau
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937115
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] O Príncipe Dragão" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/toU4TDWAdP6PEkyozFgiFoVzb5U.jpg" group-title="24H",[24h] O Príncipe Dragão
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937012
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] O Show do Garfield" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zowh0nbBuXFTzDCAVsTfKdIH7JD.jpg" group-title="24H",[24h] O Show do Garfield
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935914
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] O Show do Scooby-Doo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1mW7Putrg3aDfLwdDrNp87J5Wiz.jpg" group-title="24H",[24h] O Show do Scooby-Doo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937626
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] O Show dos Looney Tunes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uov5Y98rJvjCq8TfqNmKHXMVLU3.jpg" group-title="24H",[24h] O Show dos Looney Tunes
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936287
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] O Surfista Prateado" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lhkt2MQhyoh2eLl71hewOjxMWKn.jpg" group-title="24H",[24h] O Surfista Prateado
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937627
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] One Piece" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fcXdJlbSdUEeMSJFsXKsznGwwok.jpg" group-title="24H",[24h] One Piece
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87584
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] One Punch Man" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg" group-title="24H",[24h] One Punch Man
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87587
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Onyx Equinox" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lCPi4hXHjLQWv7j2TVsWoLE99Uw.jpg" group-title="24H",[24h] Onyx Equinox
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87586
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Operação Big Hero: A Série" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oZPe5DKfxAJxo4X9TvOKxz37Q5N.jpg" group-title="24H",[24h] Operação Big Hero: A Série
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937628
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Os Cavaleiros do Zodíaco: Saint Seiya" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j39p6zfHETY2O8nakbOHcwcMxay.jpg" group-title="24H",[24h] Os Cavaleiros do Zodíaco: Saint Seiya
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937013
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Os Cavaleiros do Zodíaco: Saintia Shô" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nLypgWEWGpBUJ6EDfPEdixJprbg.jpg" group-title="24H",[24h] Os Cavaleiros do Zodíaco: Saintia Shô
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87579
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Os Jetsons Desenhos 24hs" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4jpNQBhVcUfSS7MkrEwaNjZlHJj.jpg" group-title="24H",[24h] Os Jetsons Desenhos 24hs
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/939200
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Os Simpsons: S01 a S09" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/29DgU8r0acAM719FVYQ25Iqwdqk.jpg" group-title="24H",[24h] Os Simpsons: S01 a S09
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937509
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Os Simpsons: S10 a S18" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/29DgU8r0acAM719FVYQ25Iqwdqk.jpg" group-title="24H",[24h] Os Simpsons: S10 a S18
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937510
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Os Simpsons: S19 a S27" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/29DgU8r0acAM719FVYQ25Iqwdqk.jpg" group-title="24H",[24h] Os Simpsons: S19 a S27
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937511
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Os Simpsons: S28 a S35" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/29DgU8r0acAM719FVYQ25Iqwdqk.jpg" group-title="24H",[24h] Os Simpsons: S28 a S35
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937512
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Patrulha Canina - S01 e S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pQ0bBHR9Q3wurjNMjnqal0gJaYo.jpg" group-title="24H",[24h] Patrulha Canina - S01 e S02
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935884
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Patrulha Canina - S03 e S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pQ0bBHR9Q3wurjNMjnqal0gJaYo.jpg" group-title="24H",[24h] Patrulha Canina - S03 e S04
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935885
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Peppa Pig" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ycf1ZqisXs8ZCGmw0reD1pI2Zlp.jpg" group-title="24H",[24h] Peppa Pig
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937032
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Pequeno Príncipe e Seus Amigos" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gzEPtTooxBfaABRvHptJZuibisT.jpg" group-title="24H",[24h] Pequeno Príncipe e Seus Amigos
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937275
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Piano no Mori" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3sN8KTZFC8ypxnIhjoiE8M6L2Pj.jpg" group-title="24H",[24h] Piano no Mori
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87578
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Pinky e o Cérebro" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ywO3QKU8IIOyWtVeA88rWlTyuT6.jpg" group-title="24H",[24h] Pinky e o Cérebro
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937117
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] PJ Masks: Heróis de Pijama S03-S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7hXHFx69vCEHgXD4mT1HcuOahgp.jpg" group-title="24H",[24h] PJ Masks: Heróis de Pijama S03-S04
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935888
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] PJ Masks: Heróis de Pijama S05" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7hXHFx69vCEHgXD4mT1HcuOahgp.jpg" group-title="24H",[24h] PJ Masks: Heróis de Pijama S05
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935895
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Pocoyo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1fmaC3t96Napg7TR9SsfOX8q11X.jpg" group-title="24H",[24h] Pocoyo
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/935893
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Poderoso Lion Man" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5lWatlZDjL4bnzeobs7b5FYl8gj.jpg" group-title="24H",[24h] Poderoso Lion Man
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937384
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Pokémon Journeys" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/427px_s23_poster.png" group-title="24H",[24h] Pokémon Journeys
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/68867
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Popeye S01 e S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg" group-title="24H",[24h] Popeye S01 e S02
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937320
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Popeye S03 e S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg" group-title="24H",[24h] Popeye S03 e S04
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937321
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Record of Ragnarok" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg" group-title="24H",[24h] Record of Ragnarok
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/56437
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Rick e Morty" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg" group-title="24H",[24h] Rick e Morty
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936288
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Rock Internacional" tvg-logo="https://imgur.com/Jy89VoC.jpg" group-title="24H",[24h] Rock Internacional
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/943621
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Sailor Moon" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ylo2jRmsVCYAXcL1qX2U9GvxpZ7.jpg" group-title="24H",[24h] Sailor Moon
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937024
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Sakura Card Captors" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dj0uI34MOkZMTE233tfRebs0YYx.jpg" group-title="24H",[24h] Sakura Card Captors
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87561
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Samurai 7" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2HTBA7QrGSQD6bXBbwL0lLABY29.jpg" group-title="24H",[24h] Samurai 7
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87580
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Samurai X - P1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qYBFkIAlFCup6IqGXAvVwUHHwjG.jpg" group-title="24H",[24h] Samurai X - P1
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937022
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Samurai X - P2" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qYBFkIAlFCup6IqGXAvVwUHHwjG.jpg" group-title="24H",[24h] Samurai X - P2
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937023
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Scooby-Doo! Mistério S/A" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/75ZldxGKFQDRHFn2G6FngCvlVzu.jpg" group-title="24H",[24h] Scooby-Doo! Mistério S/A
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937105
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Seiren" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/acz4astonaJXe1qoH41ukRis2zC.jpg" group-title="24H",[24h] Seiren
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87581
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Seis Punhos" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gLIC5AigbrUYP2vHoBhmm687nnF.jpg" group-title="24H",[24h] Seis Punhos
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87582
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Shenmue the Animation" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/owwTW4OVSG1IbU9gpVgRHbD6Dgz.jpg" group-title="24H",[24h] Shenmue the Animation
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87583
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] She-Ra Clássico" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/49ZbBp4eUQnXYRvm6HjNI6sSrdW.jpg" group-title="24H",[24h] She-Ra Clássico
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936827
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] She-Ra e As Princesas do Poder" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o2yXOaHIDivBgX2rskW7yrN8pKk.jpg" group-title="24H",[24h] She-Ra e As Princesas do Poder
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936828
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Shurato" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CrlgdCfOrZQRO1KdNBvnZWAzxq.jpg" group-title="24H",[24h] Shurato
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87585
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Snoopy no Espaço" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i2paY29KtHEnUgL6KGG3BwIuwTz.jpg" group-title="24H",[24h] Snoopy no Espaço
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936829
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Sonic Boom" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7Dyz0Lw5vbffyq90kLjL5scPs9C.jpg" group-title="24H",[24h] Sonic Boom
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] South Park  S16-S20" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg" group-title="24H",[24h] South Park  S16-S20
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936840
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] South Park S01-S05" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg" group-title="24H",[24h] South Park S01-S05
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936831
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] South Park S06-S10" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg" group-title="24H",[24h] South Park S06-S10
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936832
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] South Park S11-S15" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg" group-title="24H",[24h] South Park S11-S15
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936833
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] South Park S21-S26" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg" group-title="24H",[24h] South Park S21-S26
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936834
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Super Choque" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c4bMyE2SZv9B6rS0Anvlwej14R1.jpg" group-title="24H",[24h] Super Choque
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937106
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Super Dragon Ball Heroes" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8jq6xv5c1WK7KAPOXCsodm8eUxp.jpg" group-title="24H",[24h] Super Dragon Ball Heroes
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936943
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Super Strikas" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nx2OyMPYJZlgvK29mjovqy4WYnJ.jpg" group-title="24H",[24h] Super Strikas
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937647
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Super Wings!" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lu2DNsIQgn1Jb6djHvrqJSUQXXl.jpg" group-title="24H",[24h] Super Wings!
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936835
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] SWORDGAI The Animation" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gSWy4281JWgXcnI4HqBjDf7Umho.jpg" group-title="24H",[24h] SWORDGAI The Animation
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87573
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Tekken: Bloodline" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQTieStX2SRYL3h2Bf1ZrJkji7R.jpg" group-title="24H",[24h] Tekken: Bloodline
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87683
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] The Rising of the Shield Hero" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/baX1tMzHeA7K3eTP4fOvPGwVgAG.jpg" group-title="24H",[24h] The Rising of the Shield Hero
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87571
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Thunder Cats Clássico S01" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fz23hySaUzpE71CvwcZXMDwqK1u.jpg" group-title="24H",[24h] Thunder Cats Clássico S01
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936836
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Thunder Cats Clássico S02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fz23hySaUzpE71CvwcZXMDwqK1u.jpg" group-title="24H",[24h] Thunder Cats Clássico S02
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936837
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Tico e Teco: Defensores da Lei" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6eZcg9v5bIZ1sc6TxtfOl5fFg89.jpg" group-title="24H",[24h] Tico e Teco: Defensores da Lei
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936838
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Tico e Teco: Vida no Parque" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aXrdr6zutJyr0r2yDWOlhYqIk5t.jpg" group-title="24H",[24h] Tico e Teco: Vida no Parque
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937277
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Timão e Pumba" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7SeT1SqFWPquGd36rF29TqF6lAG.jpg" group-title="24H",[24h] Timão e Pumba
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937118
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Tom e Jerry" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t0VTMU4UI8XlaryymvNKjnD1TXc.jpg" group-title="24H",[24h] Tom e Jerry
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936839
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Transformers: A Centelha da Terra" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ceoc00NQ3YPA1fycgFD7OiqDLkR.jpg" group-title="24H",[24h] Transformers: A Centelha da Terra
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937107
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Transformers: War for Cybertron: Kingdom" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ujDiswEAFxMtVibjxozJn3UPiF5.jpg" group-title="24H",[24h] Transformers: War for Cybertron: Kingdom
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937108
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Três Espiãs Demais!" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5z5NiXdx7z30ZLzthaEyjY6asvF.jpg" group-title="24H",[24h] Três Espiãs Demais!
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937014
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Ultimate Homem-Aranha" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aoZxQsP5qbWYM5ziXDK5bNpuhyi.jpg" group-title="24H",[24h] Ultimate Homem-Aranha
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937630
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Ultraman" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sDnxH035Ak08FwXI2QwJjoB4e2V.jpg" group-title="24H",[24h] Ultraman
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937027
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Uma Família da Pesada S01 a S04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg" group-title="24H",[24h] Uma Família da Pesada S01 a S04
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936289
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Uma Família da Pesada S05 a S08" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg" group-title="24H",[24h] Uma Família da Pesada S05 a S08
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936290
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Uma Família da Pesada S09 a S12" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg" group-title="24H",[24h] Uma Família da Pesada S09 a S12
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936291
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Uma Família da Pesada S13 a S16" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg" group-title="24H",[24h] Uma Família da Pesada S13 a S16
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936292
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Uma Família da Pesada S17 a S20" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg" group-title="24H",[24h] Uma Família da Pesada S17 a S20
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/936293
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Ursinhos Carinhosos e Seus Primos" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/42rLDq7mHH7DyWWWklSTQy7y2ze.jpg" group-title="24H",[24h] Ursinhos Carinhosos e Seus Primos
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937561
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Ursinhos Carinhosos: Bem-Vindos à Terra do Carinho" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sw7RiKBKcaY8zpN9YzJTkTpEsNK.jpg" group-title="24H",[24h] Ursinhos Carinhosos: Bem-Vindos à Terra do Carinho
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937278
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Wolverine e os X-Men" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oSeJ2nESB77iC6SLo4qcqoadjdt.jpg" group-title="24H",[24h] Wolverine e os X-Men
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937631
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] X-Men" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jRGOY8KvL7hHrJcfKfXe99C4pc5.jpg" group-title="24H",[24h] X-Men
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/937116
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24h] Yu Yu Hakusho" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j6dzDPkrAsfJ6GUyyMPz38ZkpbF.jpg" group-title="24H",[24h] Yu Yu Hakusho
+http://x.cliente.tech:8080/sourceuxusaX2/bRsCaNup9Cb3/87572
