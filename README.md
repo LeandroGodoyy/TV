@@ -124,6 +124,10 @@ https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/A1.m3u
 
 ---
 
+**Fonte:**
+
+https://htforum.net/threads/iptv-gratis-tv-aberta.86/page-157
+
 ╠═🔳🚥 Host ⌦ http://playclubhouse.net
 
 ╠═🔳📡 Port ⌦ 80
