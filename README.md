@@ -164,6 +164,11 @@ https://htforum.net/threads/iptv-gratis-tv-aberta.86/page-157
 
 http://playclubhouse.net/get.php?username=30921276&password=r319Z8072W&type=m3u_plus (B1)
 
+
+**2038**
+
+https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/2038.m3u8
+
 ---
 
 ## IPTV Legal
