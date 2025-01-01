@@ -549,7 +549,7 @@ https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="TNTNovelas(Portuguese).br" tvg-name="TNT Novela" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80713_dark_360w_270h.png" group-title="Novelas",TNT Novela
 http://p2.hostinggonemoreso1.com:2082/Tourobox2-F6HlZGQGMS/FmIjSdCFpI/1167
-#EXTINF:-1 tvg-id="SIC(src01).pt" tvg-name="SIC TV" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0289dc60-2fe7-4524-99b7-c6304bc07a62/ddxw1kt-7bee75b8-0828-4827-b0ea-f5c52ea4b828.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwia" group-title="Internacional",SIC TV
+#EXTINF:-1 tvg-id="SIC(src01).pt" tvg-name="SIC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Internacional",SIC TV
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8?ManoTV
 #EXTINF:-1 tvg-id="TVIReal(src01).pt" tvg-name="TVi Realitys" tvg-logo="https://imgur.com/hbkDjva.png" group-title="Internacional",TVi Realitys
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?ManoTV
