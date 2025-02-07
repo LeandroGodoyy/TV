@@ -19,6 +19,9 @@ http://m3u4u.com/epg/782dyqv1m3u1je5en4zp (Alt 1 gz)
 # Em teste
 
 **Para ver o que tem e o que funciona:**
+https://raw.githubusercontent.com/LeandroGodoyy/TV/refs/heads/main/Vox.m3u 07/02/2025
+
+**Para ver o que tem e o que funciona:**
 
 **Fonte**: https://github.com/Ramys/Iptv-Brasil-2025
 
