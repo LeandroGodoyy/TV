@@ -949,7 +949,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Novelas | LG" tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="Canais | NOVELAS",Sony Novelas | LG
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Space(Portuguese).br" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE
+#EXTINF:-1 tvg-id="Space(Portuguese).br" tvg-name="SPACE zutufo" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE zutufo
 http://zutufo.in:80/live/781487031/K788a6763d/705_.m3u8
 #EXTINF:-1 tvg-id="Space(Portuguese).br" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE
 https://new.m3u8.one/space/index.m3u8
@@ -957,17 +957,17 @@ https://new.m3u8.one/space/index.m3u8
 http://zutufo.in:80/live/781487031/K788a6763d/706_.m3u8
 #EXTINF:-1 tvg-id="Space(Portuguese).br" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE
 http://zutufo.in:80/live/781487031/K788a6763d/707_.m3u8
-#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT
+#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-name="TNT zutufo" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT zutufo
 http://zutufo.in:80/live/781487031/K788a6763d/732_.m3u8
-#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT
+#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-name="TNT zutufo 2" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT zutufo 2
 https://cr7v.short.gy/live/JOGOO8/Index.m3u8
-#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT
+#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-name="TNT index con" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT index con
 http://conexao-vs.live/TNT/index.m3u8
-#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT
+#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-name="TNT new index" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT new index
 https://new.m3u8.one/tnt/index.m3u8
-#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT
+#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-name="TNT zutufo 3" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT zutufo 3
 http://zutufo.in:80/live/781487031/K788a6763d/731_.m3u8
-#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT
+#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-name="TNT zutufo 4" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT zutufo 4
 http://zutufo.in:80/live/781487031/K788a6763d/733_.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Séries FHD" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries FHD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/314
